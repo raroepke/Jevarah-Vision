@@ -1,0 +1,1211 @@
+image_id,anatom_site_general,benign_malignant,sex,diagnosis,age_approx,sun_exposure
+5436e3abbae478396759f0cf,anterior torso,benign,female,nevus,55,0.27
+5436e3acbae478396759f0d1,anterior torso,benign,female,nevus,30,0.1
+5436e3acbae478396759f0d5,upper extremity,benign,male,nevus,30,0.1
+5436e3acbae478396759f0d9,anterior torso,benign,female,nevus,40,0.17
+5436e3acbae478396759f0db,posterior torso,benign,female,nevus,25,0.07
+5436e3acbae478396759f0dd,posterior torso,benign,female,nevus,25,0.07
+5436e3acbae478396759f0df,anterior torso,benign,female,nevus,30,0.1
+5436e3acbae478396759f0e1,anterior torso,benign,female,nevus,30,0.1
+5436e3acbae478396759f0e3,posterior torso,benign,female,nevus,35,0.13
+5436e3acbae478396759f0e5,lower extremity,benign,female,nevus,35,0.13
+5436e3acbae478396759f0e7,posterior torso,benign,male,nevus,30,0.1
+5436e3adbae478396759f0eb,posterior torso,benign,male,nevus,35,0.13
+5436e3adbae478396759f0ed,posterior torso,benign,male,nevus,35,0.13
+5436e3adbae478396759f0ef,anterior torso,benign,female,nevus,55,0.27
+5436e3adbae478396759f0f1,posterior torso,benign,female,nevus,50,0.23
+5436e3adbae478396759f0f3,posterior torso,benign,male,nevus,30,0.1
+5436e3adbae478396759f0f5,posterior torso,benign,female,nevus,30,0.1
+5436e3adbae478396759f0f7,anterior torso,benign,female,nevus,25,0.07
+5436e3adbae478396759f0f9,posterior torso,benign,female,nevus,55,0.27
+5436e3aebae478396759f0fd,anterior torso,benign,female,nevus,30,0.1
+5436e3aebae478396759f0ff,posterior torso,benign,male,nevus,45,0.2
+5436e3aebae478396759f101,lower extremity,benign,female,nevus,35,0.13
+5436e3aebae478396759f105,anterior torso,benign,female,nevus,35,0.13
+5436e3aebae478396759f107,anterior torso,benign,male,nevus,60,0.3
+5436e3afbae478396759f10f,posterior torso,benign,female,nevus,30,0.1
+5436e3afbae478396759f111,lower extremity,benign,female,nevus,45,0.2
+5436e3afbae478396759f113,posterior torso,benign,female,nevus,30,0.1
+5436e3afbae478396759f119,posterior torso,benign,male,nevus,70,0.37
+5436e3b0bae478396759f11b,posterior torso,benign,female,nevus,40,0.17
+5436e3b0bae478396759f11d,posterior torso,benign,female,nevus,60,0.3
+5436e3b0bae478396759f121,lower extremity,benign,female,nevus,40,0.17
+5436e3b0bae478396759f123,anterior torso,benign,male,nevus,50,0.23
+5436e3b0bae478396759f127,posterior torso,benign,male,nevus,20,0.03
+5436e3b0bae478396759f129,lower extremity,benign,male,nevus,30,0.1
+5436e3b1bae478396759f12d,lower extremity,benign,male,nevus,70,0.37
+5436e3b1bae478396759f12f,anterior torso,benign,female,nevus,50,0.23
+5436e3b1bae478396759f133,anterior torso,benign,male,nevus,30,0.1
+5436e3b1bae478396759f135,upper extremity,benign,male,nevus,55,0.27
+5436e3b1bae478396759f137,posterior torso,benign,female,nevus,40,0.17
+5436e3b1bae478396759f139,posterior torso,benign,female,nevus,25,0.07
+5436e3b2bae478396759f13d,posterior torso,benign,female,nevus,40,0.17
+5436e3b2bae478396759f141,lower extremity,benign,female,nevus,40,0.17
+5436e3b2bae478396759f143,posterior torso,benign,female,nevus,40,0.17
+5436e3b2bae478396759f145,lower extremity,benign,female,nevus,30,0.1
+5436e3b2bae478396759f147,posterior torso,benign,female,nevus,35,0.13
+5436e3b2bae478396759f149,lower extremity,benign,female,nevus,35,0.13
+5436e3b2bae478396759f14b,posterior torso,benign,female,nevus,40,0.17
+5436e3b3bae478396759f14d,anterior torso,benign,female,nevus,45,0.2
+5436e3b3bae478396759f14f,anterior torso,benign,female,nevus,40,0.17
+5436e3b3bae478396759f151,posterior torso,benign,female,nevus,30,0.1
+5436e3b3bae478396759f153,posterior torso,benign,female,nevus,55,0.27
+5436e3b3bae478396759f155,posterior torso,benign,female,nevus,45,0.2
+5436e3b3bae478396759f157,anterior torso,benign,female,nevus,35,0.13
+5436e3b3bae478396759f159,anterior torso,benign,female,nevus,15,0.0
+5436e3b3bae478396759f15d,posterior torso,benign,male,nevus,25,0.07
+5436e3b3bae478396759f15f,posterior torso,benign,male,nevus,85,0.47
+5436e3b4bae478396759f161,posterior torso,benign,female,nevus,20,0.03
+5436e3b4bae478396759f165,anterior torso,benign,female,nevus,50,0.23
+5436e3b4bae478396759f16d,lower extremity,benign,female,nevus,55,0.27
+5436e3b4bae478396759f16f,,benign,,nevus,,
+5436e3b5bae478396759f171,,benign,,nevus,,
+5436e3b5bae478396759f173,,benign,,nevus,,
+5436e3b5bae478396759f175,,benign,,nevus,,
+5436e3b5bae478396759f177,,benign,,nevus,,
+5436e3b5bae478396759f179,,benign,,nevus,,
+5436e3b6bae478396759f17b,,benign,,nevus,,
+5436e3b6bae478396759f17d,,benign,,nevus,,
+5436e3b6bae478396759f17f,,benign,,nevus,,
+5436e3b6bae478396759f181,,benign,,nevus,,
+5436e3b7bae478396759f183,,benign,,nevus,,
+5436e3b7bae478396759f185,,benign,,nevus,,
+5436e3b7bae478396759f187,,benign,,nevus,,
+5436e3b7bae478396759f189,,benign,,nevus,,
+5436e3b7bae478396759f18b,,benign,,nevus,,
+5436e3b8bae478396759f18d,,benign,,nevus,,
+5436e3b8bae478396759f18f,,benign,,nevus,,
+5436e3b8bae478396759f191,,benign,,nevus,,
+5436e3b8bae478396759f193,,benign,,nevus,,
+5436e3b8bae478396759f197,,benign,,nevus,,
+5436e3b9bae478396759f199,,benign,,nevus,,
+5436e3b9bae478396759f19b,,benign,,nevus,,
+5436e3b9bae478396759f19d,,benign,,nevus,,
+5436e3b9bae478396759f19f,,benign,,nevus,,
+5436e3b9bae478396759f1a1,,benign,,nevus,,
+5436e3babae478396759f1a3,,benign,,nevus,,
+5436e3babae478396759f1a5,,benign,,nevus,,
+5436e3babae478396759f1a7,,benign,,nevus,,
+5436e3babae478396759f1a9,,benign,,nevus,,
+5436e3babae478396759f1ab,,benign,,nevus,,
+5436e3bbbae478396759f1ad,,benign,,nevus,,
+5436e3bbbae478396759f1af,,benign,,nevus,,
+5436e3bbbae478396759f1b1,,benign,,nevus,,
+5436e3bbbae478396759f1b3,,benign,,nevus,,
+5436e3bcbae478396759f1b5,,benign,,nevus,,
+5436e3bcbae478396759f1b7,,benign,,nevus,,
+5436e3bcbae478396759f1b9,,benign,,nevus,,
+5436e3bcbae478396759f1bb,,benign,,nevus,,
+5436e3bcbae478396759f1bd,,benign,,nevus,,
+5436e3bdbae478396759f1bf,,benign,,nevus,,
+5436e3bdbae478396759f1c1,,benign,,nevus,,
+5436e3bdbae478396759f1c3,,benign,,nevus,,
+5436e3bdbae478396759f1c5,,benign,,nevus,,
+5436e3bdbae478396759f1c7,,benign,,nevus,,
+5436e3bebae478396759f1c9,,benign,,nevus,,
+5436e3bebae478396759f1cb,,benign,,nevus,,
+5436e3bebae478396759f1cd,,benign,,nevus,,
+5436e3bebae478396759f1cf,,benign,,nevus,,
+5436e3bebae478396759f1d1,,benign,,nevus,,
+5436e3bebae478396759f1d3,,benign,,nevus,,
+5436e3bfbae478396759f1d5,,benign,,nevus,,
+5436e3bfbae478396759f1d7,,benign,,nevus,,
+5436e3bfbae478396759f1d9,,benign,,nevus,,
+5436e3bfbae478396759f1db,,benign,,nevus,,
+5436e3bfbae478396759f1dd,,benign,,nevus,,
+5436e3c0bae478396759f1df,,benign,,nevus,,
+5436e3c0bae478396759f1e1,,benign,,nevus,,
+5436e3c0bae478396759f1e3,,benign,,nevus,,
+5436e3c0bae478396759f1e5,,benign,,nevus,,
+5436e3c6bae478396759f233,anterior torso,benign,male,nevus,25,0.07
+5436e3c6bae478396759f235,upper extremity,benign,female,nevus,65,0.34
+5436e3c6bae478396759f237,anterior torso,benign,male,nevus,35,0.13
+5436e3c6bae478396759f239,lower extremity,benign,female,nevus,45,0.2
+5436e3c6bae478396759f23b,upper extremity,benign,female,nevus,15,0.0
+5436e3c6bae478396759f23d,anterior torso,benign,male,nevus,45,0.2
+5436e3c6bae478396759f23f,anterior torso,benign,female,nevus,30,0.1
+5436e3c7bae478396759f241,anterior torso,benign,female,nevus,25,0.07
+5436e3c7bae478396759f243,posterior torso,benign,female,nevus,25,0.07
+5436e3c7bae478396759f245,upper extremity,benign,male,nevus,5,0.0
+5436e3c7bae478396759f247,anterior torso,benign,female,nevus,20,0.03
+5436e3c7bae478396759f249,posterior torso,benign,male,nevus,45,0.2
+5436e3c7bae478396759f24b,anterior torso,benign,male,nevus,30,0.1
+5436e3c7bae478396759f24d,posterior torso,benign,female,nevus,10,0.0
+5436e3c7bae478396759f24f,anterior torso,benign,male,nevus,35,0.13
+5436e3c7bae478396759f251,upper extremity,benign,female,nevus,55,0.27
+5436e3c7bae478396759f253,upper extremity,benign,female,nevus,55,0.27
+5436e3c8bae478396759f255,upper extremity,benign,male,nevus,30,0.1
+5436e3c8bae478396759f257,anterior torso,benign,female,nevus,15,0.0
+5436e3c8bae478396759f259,lower extremity,benign,female,nevus,10,0.0
+5436e3c8bae478396759f25b,lower extremity,benign,female,nevus,10,0.0
+5436e3c8bae478396759f25d,lower extremity,benign,male,nevus,65,0.34
+5436e3c8bae478396759f25f,upper extremity,benign,male,nevus,20,0.03
+5436e3c8bae478396759f261,lower extremity,benign,female,nevus,50,0.23
+5436e3c8bae478396759f263,lower extremity,benign,male,nevus,15,0.0
+5436e3c8bae478396759f265,posterior torso,benign,female,nevus,25,0.07
+5436e3c9bae478396759f267,posterior torso,benign,female,nevus,45,0.2
+5436e3c9bae478396759f269,posterior torso,benign,male,nevus,45,0.2
+5436e3c9bae478396759f26b,posterior torso,benign,male,nevus,50,0.23
+5436e3c9bae478396759f26d,lower extremity,benign,female,nevus,80,0.44
+5436e3c9bae478396759f26f,upper extremity,benign,male,nevus,30,0.1
+5436e3c9bae478396759f271,posterior torso,benign,male,nevus,35,0.13
+5436e3c9bae478396759f273,upper extremity,benign,female,nevus,75,0.4
+5436e3c9bae478396759f275,lower extremity,benign,male,nevus,65,0.34
+5436e3c9bae478396759f277,upper extremity,benign,female,nevus,30,0.1
+5436e3c9bae478396759f279,posterior torso,benign,female,nevus,25,0.07
+5436e3cabae478396759f27b,anterior torso,benign,female,nevus,30,0.1
+5436e3cabae478396759f27d,posterior torso,benign,male,nevus,65,0.34
+5436e3cabae478396759f27f,anterior torso,benign,male,nevus,45,0.2
+5436e3cabae478396759f281,anterior torso,benign,male,nevus,30,0.1
+5436e3cabae478396759f283,lower extremity,benign,male,nevus,70,0.37
+5436e3cabae478396759f285,posterior torso,benign,male,nevus,55,0.27
+5436e3cabae478396759f287,lower extremity,benign,male,nevus,35,0.13
+5436e3cabae478396759f289,lower extremity,benign,female,nevus,30,0.1
+5436e3cabae478396759f28b,upper extremity,benign,female,nevus,30,0.1
+5436e3cabae478396759f28d,lower extremity,benign,female,nevus,25,0.07
+5436e3cabae478396759f28f,anterior torso,benign,female,nevus,45,0.2
+5436e3cbbae478396759f291,anterior torso,benign,female,nevus,20,0.03
+5436e3cbbae478396759f293,anterior torso,benign,female,nevus,35,0.13
+5436e3cbbae478396759f295,posterior torso,benign,male,nevus,70,0.37
+5436e3cbbae478396759f297,lower extremity,benign,female,nevus,40,0.17
+5436e3cbbae478396759f299,anterior torso,benign,female,nevus,30,0.1
+5436e3cbbae478396759f29b,anterior torso,benign,male,nevus,50,0.23
+5436e3cbbae478396759f29d,anterior torso,benign,female,nevus,20,0.03
+5436e3cbbae478396759f29f,posterior torso,benign,female,nevus,25,0.07
+5436e3cbbae478396759f2a1,upper extremity,benign,male,nevus,75,0.4
+5436e3cbbae478396759f2a3,anterior torso,benign,female,nevus,60,0.3
+5436e3ccbae478396759f2a5,anterior torso,benign,male,nevus,20,0.03
+5436e3ccbae478396759f2a7,lower extremity,benign,female,nevus,10,0.0
+5436e3ccbae478396759f2a9,lower extremity,benign,male,nevus,30,0.1
+5436e3ccbae478396759f2ab,posterior torso,benign,male,nevus,70,0.37
+5436e3ccbae478396759f2ad,lower extremity,benign,male,nevus,60,0.3
+5436e3ccbae478396759f2af,lower extremity,benign,female,nevus,5,0.0
+5436e3ccbae478396759f2b1,posterior torso,benign,female,nevus,35,0.13
+5436e3ccbae478396759f2b3,posterior torso,benign,male,nevus,25,0.07
+5436e3ccbae478396759f2b5,lateral torso,benign,male,nevus,60,0.3
+5436e3cdbae478396759f2b7,posterior torso,benign,male,nevus,65,0.34
+5436e3cdbae478396759f2b9,anterior torso,benign,male,nevus,40,0.17
+5436e3cdbae478396759f2bb,posterior torso,benign,male,nevus,70,0.37
+5436e3cdbae478396759f2bd,lower extremity,benign,female,nevus,25,0.07
+5436e3cdbae478396759f2bf,upper extremity,benign,male,nevus,35,0.13
+5436e3cdbae478396759f2c1,upper extremity,benign,male,nevus,35,0.13
+5436e3cdbae478396759f2c3,lower extremity,benign,female,nevus,20,0.03
+5436e3cdbae478396759f2c5,anterior torso,benign,male,nevus,35,0.13
+5436e3cdbae478396759f2c7,posterior torso,benign,female,nevus,50,0.23
+5436e3cdbae478396759f2c9,lower extremity,benign,male,nevus,75,0.4
+5436e3cdbae478396759f2cb,posterior torso,benign,female,nevus,30,0.1
+5436e3cdbae478396759f2cd,lower extremity,benign,female,nevus,60,0.3
+5436e3cebae478396759f2cf,lower extremity,benign,female,nevus,60,0.3
+5436e3cebae478396759f2d1,posterior torso,benign,male,nevus,65,0.34
+5436e3cebae478396759f2d5,posterior torso,benign,male,nevus,70,0.37
+5436e3cebae478396759f2d7,anterior torso,benign,female,nevus,45,0.2
+5436e3cebae478396759f2d9,posterior torso,benign,male,nevus,10,0.0
+5436e3cebae478396759f2db,upper extremity,benign,female,nevus,30,0.1
+5436e3cebae478396759f2dd,anterior torso,benign,female,nevus,25,0.07
+5436e3cebae478396759f2df,posterior torso,benign,female,nevus,25,0.07
+5436e3cebae478396759f2e1,lower extremity,benign,female,nevus,25,0.07
+5436e3cebae478396759f2e3,upper extremity,benign,female,nevus,25,0.07
+5436e3cebae478396759f2e5,anterior torso,benign,female,nevus,30,0.1
+5436e3cfbae478396759f2e7,anterior torso,benign,female,nevus,35,0.13
+5436e3cfbae478396759f2e9,posterior torso,benign,female,nevus,45,0.2
+5436e3cfbae478396759f2eb,anterior torso,benign,male,nevus,30,0.1
+5436e3cfbae478396759f2ed,upper extremity,benign,female,nevus,30,0.1
+5436e3cfbae478396759f2ef,upper extremity,benign,male,nevus,20,0.03
+5436e3cfbae478396759f2f1,anterior torso,benign,male,nevus,45,0.2
+5436e3cfbae478396759f2f3,anterior torso,benign,female,nevus,30,0.1
+5436e3cfbae478396759f2f5,posterior torso,benign,female,nevus,20,0.03
+5436e3cfbae478396759f2f7,upper extremity,benign,female,nevus,45,0.2
+5436e3d3bae478396759f347,anterior torso,benign,female,nevus,30,0.1
+5436e3d3bae478396759f349,anterior torso,benign,female,nevus,20,0.03
+5436e3d3bae478396759f34b,posterior torso,benign,female,nevus,60,0.3
+5436e3d3bae478396759f34d,posterior torso,benign,male,nevus,45,0.2
+5436e3d3bae478396759f34f,posterior torso,benign,male,nevus,50,0.23
+5436e3d3bae478396759f351,lower extremity,benign,male,nevus,55,0.27
+5436e3d3bae478396759f353,posterior torso,benign,male,nevus,30,0.1
+5436e3d3bae478396759f355,posterior torso,benign,male,nevus,35,0.13
+5436e3d3bae478396759f357,head/neck,benign,male,nevus,40,0.17
+5436e3d4bae478396759f359,posterior torso,benign,male,nevus,25,0.07
+5436e3d4bae478396759f35b,anterior torso,benign,male,nevus,50,0.23
+5436e3d4bae478396759f35d,lower extremity,benign,female,nevus,20,0.03
+5436e3d4bae478396759f35f,lower extremity,benign,male,nevus,60,0.3
+5436e3d4bae478396759f361,posterior torso,benign,female,nevus,30,0.1
+5436e3d4bae478396759f363,lower extremity,benign,female,nevus,30,0.1
+5436e3d4bae478396759f365,posterior torso,benign,female,nevus,30,0.1
+5436e3d4bae478396759f367,posterior torso,benign,male,nevus,15,0.0
+5436e3d4bae478396759f369,lower extremity,benign,male,nevus,35,0.13
+5436e3d4bae478396759f36b,anterior torso,benign,male,nevus,25,0.07
+5436e3d4bae478396759f36d,posterior torso,benign,female,nevus,15,0.0
+5436e3d4bae478396759f36f,posterior torso,benign,female,nevus,55,0.27
+5436e3d5bae478396759f371,lower extremity,benign,female,nevus,30,0.1
+5436e3d5bae478396759f373,lower extremity,benign,male,nevus,50,0.23
+5436e3d5bae478396759f375,lower extremity,benign,male,nevus,50,0.23
+5436e3d5bae478396759f377,upper extremity,benign,female,nevus,25,0.07
+5436e3d5bae478396759f379,lower extremity,benign,female,nevus,,
+5436e3d5bae478396759f37b,anterior torso,benign,male,nevus,,
+5436e3d5bae478396759f37d,posterior torso,benign,male,nevus,,
+5436e3d5bae478396759f37f,head/neck,benign,male,nevus,,
+5436e3d5bae478396759f381,lower extremity,benign,male,nevus,50,0.23
+5436e3d5bae478396759f383,posterior torso,benign,male,nevus,35,0.13
+5436e3d5bae478396759f385,anterior torso,benign,female,nevus,,
+5436e3d6bae478396759f387,posterior torso,benign,female,nevus,,
+5436e3d6bae478396759f389,lower extremity,benign,female,nevus,,
+5436e3d6bae478396759f38b,anterior torso,benign,female,nevus,,
+5436e3d6bae478396759f38d,posterior torso,benign,female,nevus,,
+5436e3d6bae478396759f38f,anterior torso,benign,male,nevus,,
+5436e3d6bae478396759f391,posterior torso,benign,male,nevus,,
+5436e3d6bae478396759f393,,benign,female,nevus,,
+5436e3d6bae478396759f395,anterior torso,benign,female,nevus,35,0.13
+5436e3d6bae478396759f397,anterior torso,benign,male,nevus,,
+5436e3d6bae478396759f399,lower extremity,benign,male,nevus,50,0.23
+5436e3d6bae478396759f39b,lower extremity,benign,female,nevus,40,0.17
+5436e3d6bae478396759f39d,,benign,male,nevus,30,0.1
+5436e3d7bae478396759f39f,posterior torso,benign,male,nevus,50,0.23
+5436e3d7bae478396759f3a1,posterior torso,benign,female,nevus,30,0.1
+5436e3d7bae478396759f3a3,posterior torso,benign,male,nevus,75,0.4
+5436e3d7bae478396759f3a5,,benign,male,nevus,35,0.13
+5436e3d7bae478396759f3a7,posterior torso,benign,female,nevus,25,0.07
+5436e3d7bae478396759f3a9,posterior torso,benign,male,nevus,30,0.1
+5436e3d7bae478396759f3ab,posterior torso,benign,female,nevus,30,0.1
+5436e3d7bae478396759f3ad,lower extremity,benign,female,nevus,40,0.17
+5436e3d7bae478396759f3af,posterior torso,benign,male,nevus,15,0.0
+5436e3d7bae478396759f3b1,posterior torso,benign,female,nevus,30,0.1
+5436e3d7bae478396759f3b3,anterior torso,benign,male,nevus,30,0.1
+5436e3d7bae478396759f3b5,lower extremity,benign,male,nevus,65,0.34
+5436e3d8bae478396759f3b7,anterior torso,benign,female,nevus,30,0.1
+5436e3d8bae478396759f3b9,posterior torso,benign,female,nevus,40,0.17
+5436e3d8bae478396759f3bb,posterior torso,benign,male,nevus,40,0.17
+5436e3d8bae478396759f3bd,lower extremity,benign,male,nevus,15,0.0
+5436e3d8bae478396759f3bf,,benign,,nevus,,
+5436e3d8bae478396759f3c1,,benign,,nevus,,
+5436e3d9bae478396759f3c3,,benign,,nevus,,
+5436e3d9bae478396759f3c5,,benign,,nevus,,
+5436e3d9bae478396759f3c7,,benign,,nevus,,
+5436e3d9bae478396759f3c9,,benign,,nevus,,
+5436e3dabae478396759f3cb,,benign,,nevus,,
+5436e3dabae478396759f3cd,,benign,,nevus,,
+5436e3dabae478396759f3cf,,benign,,nevus,,
+5436e3dabae478396759f3d1,,benign,,nevus,,
+5436e3dbbae478396759f3d3,,benign,,nevus,,
+5436e3dbbae478396759f3d5,,benign,,nevus,,
+5436e3dbbae478396759f3d7,,benign,,nevus,,
+5436e3dcbae478396759f3d9,,benign,,nevus,,
+5436e3dcbae478396759f3db,,benign,,nevus,,
+5436e3ddbae478396759f3df,,benign,,nevus,,
+5436e3ddbae478396759f3e1,,benign,,nevus,,
+5436e3debae478396759f3e9,,benign,,nevus,,
+5436e3debae478396759f3eb,,benign,,nevus,,
+5436e3e0bae478396759f3f7,,benign,,nevus,,
+5436e3e2bae478396759f3ff,,benign,,nevus,,
+5436e3e2bae478396759f401,,benign,,nevus,,
+5436e3e2bae478396759f403,,benign,,nevus,,
+5436e3e4bae478396759f411,,benign,,nevus,,
+5436e3e5bae478396759f415,,benign,,nevus,,
+5436e3e5bae478396759f417,,benign,,nevus,,
+5436e3e6bae478396759f41b,,benign,,nevus,,
+5436e3e6bae478396759f41d,,benign,,nevus,,
+5436e3e6bae478396759f41f,,benign,,nevus,,
+5436e3e6bae478396759f421,,benign,,nevus,,
+5436e3e7bae478396759f423,,benign,,nevus,,
+5436e3e7bae478396759f425,,benign,,nevus,,
+5436e3e7bae478396759f427,,benign,,nevus,,
+5436e3e8bae478396759f42d,,benign,,nevus,,
+5436e3e9bae478396759f42f,,benign,,nevus,,
+5436e3e9bae478396759f433,,benign,,nevus,,
+5436e3eabae478396759f437,,benign,,nevus,,
+5436e3eabae478396759f439,,benign,,nevus,,
+5436e3ebbae478396759f43b,,benign,,nevus,,
+5436e3ebbae478396759f43f,,benign,,nevus,,
+5436e3ecbae478396759f445,,benign,,nevus,,
+5436e3ecbae478396759f447,,benign,,nevus,,
+5436e3edbae478396759f44f,,benign,,nevus,,
+5436e3eebae478396759f451,,benign,,nevus,,
+5436e3eebae478396759f453,,benign,,nevus,,
+5436e3efbae478396759f457,,benign,,nevus,,
+5436e3efbae478396759f459,,benign,,nevus,,
+5436e3efbae478396759f45b,,benign,,nevus,,
+5436e3f0bae478396759f462,,benign,,nevus,,
+5436e3f0bae478396759f464,,benign,,nevus,,
+5436e3f0bae478396759f466,,benign,,nevus,,
+5436e3f0bae478396759f468,anterior torso,benign,,nevus,,
+5436e3f1bae478396759f46c,posterior torso,benign,,nevus,,
+5436e3f1bae478396759f46e,posterior torso,benign,,nevus,,
+5436e3f1bae478396759f474,lower extremity,benign,,nevus,,
+5436e3f1bae478396759f476,anterior torso,benign,,nevus,,
+5436e3f1bae478396759f47a,posterior torso,benign,,nevus,,
+5436e3f2bae478396759f47c,posterior torso,benign,,nevus,,
+5436e3f2bae478396759f480,lower extremity,benign,,nevus,,
+5436e3f2bae478396759f482,lower extremity,benign,,nevus,,
+5436e3f2bae478396759f484,anterior torso,benign,,nevus,,
+5436e3f2bae478396759f486,lower extremity,benign,,nevus,,
+5436e3f2bae478396759f488,anterior torso,benign,,nevus,,
+5436e3f2bae478396759f48a,anterior torso,benign,,nevus,,
+5436e3f3bae478396759f48c,posterior torso,benign,,nevus,,
+5436e3f3bae478396759f48e,posterior torso,benign,,nevus,,
+5436e3f3bae478396759f490,lateral torso,benign,,nevus,,
+5436e3f3bae478396759f492,posterior torso,benign,,nevus,,
+5436e3f3bae478396759f494,posterior torso,benign,,nevus,,
+5436e3f3bae478396759f496,anterior torso,benign,,nevus,,
+5436e3f3bae478396759f49a,lower extremity,benign,,nevus,,
+5436e3f3bae478396759f49e,posterior torso,benign,,nevus,,
+5436e3f4bae478396759f4a0,lower extremity,benign,,nevus,,
+5436e3f4bae478396759f4a4,anterior torso,benign,,nevus,,
+5436e3f4bae478396759f4a6,upper extremity,benign,,nevus,,
+5436e3f4bae478396759f4a8,posterior torso,benign,,nevus,,
+5436e3f4bae478396759f4aa,lower extremity,benign,,nevus,,
+5436e3f4bae478396759f4ac,posterior torso,benign,,nevus,,
+5436e3f4bae478396759f4ae,posterior torso,benign,,nevus,,
+5436e3f4bae478396759f4b0,anterior torso,benign,,nevus,,
+5436e3f4bae478396759f4b2,lower extremity,benign,,nevus,,
+5436e3f4bae478396759f4b4,posterior torso,benign,,nevus,,
+5436e3f5bae478396759f4b6,posterior torso,benign,,nevus,,
+5436e3f5bae478396759f4b8,anterior torso,benign,,nevus,,
+5436e3f5bae478396759f4ba,lateral torso,benign,,nevus,,
+5436e3f5bae478396759f4bc,posterior torso,benign,,nevus,,
+5436e3f5bae478396759f4be,anterior torso,benign,,nevus,,
+5436e3f5bae478396759f4c2,anterior torso,benign,,nevus,,
+5436e3f6bae478396759f4c4,posterior torso,benign,,nevus,,
+5436e3f6bae478396759f4c6,upper extremity,benign,,nevus,,
+5436e3f6bae478396759f4c8,lower extremity,benign,,nevus,,
+5436e3f6bae478396759f4ca,posterior torso,benign,,nevus,,
+5436e3f6bae478396759f4cc,upper extremity,benign,,nevus,,
+5436e3f6bae478396759f4ce,posterior torso,benign,,nevus,,
+5436e3f6bae478396759f4d0,posterior torso,benign,,nevus,,
+5436e3f6bae478396759f4d4,anterior torso,benign,,nevus,,
+5436e3f7bae478396759f4d8,anterior torso,benign,,nevus,,
+5436e3f7bae478396759f4da,anterior torso,benign,,nevus,,
+5436e3f8bae478396759f4ea,posterior torso,benign,,nevus,,
+5436e3f8bae478396759f4ec,anterior torso,benign,,nevus,,
+5436e3f8bae478396759f4ee,lower extremity,benign,,nevus,,
+5436e3f9bae478396759f4f2,,benign,,nevus,,
+5436e3f9bae478396759f4f4,posterior torso,benign,,nevus,,
+5436e3f9bae478396759f4f6,lateral torso,benign,,nevus,,
+5436e3f9bae478396759f4f8,upper extremity,benign,,nevus,,
+5436e3f9bae478396759f4fc,posterior torso,benign,,nevus,,
+5436e3f9bae478396759f500,,benign,,nevus,,
+5436e3f9bae478396759f502,,benign,,nevus,,
+5436e3f9bae478396759f504,,benign,,nevus,,
+5436e3f9bae478396759f506,,benign,,nevus,,
+5436e3fabae478396759f508,,benign,,nevus,,
+5436e3fabae478396759f50a,,benign,,nevus,,
+5436e3fabae478396759f50c,,benign,,nevus,,
+5436e3fabae478396759f50e,,benign,,nevus,,
+5436e3fabae478396759f510,,benign,,nevus,,
+5436e3fabae478396759f512,,benign,,nevus,,
+5436e3fabae478396759f514,,benign,,nevus,,
+5436e3fabae478396759f516,,benign,,nevus,,
+5436e3fabae478396759f518,,benign,,nevus,,
+5436e3fbbae478396759f52c,,benign,,nevus,,
+54d90df7bae4780ab00c2ebd,,benign,female,nevus,10,0.0
+54d90df7bae4780ab00c2ec2,,benign,female,nevus,10,0.0
+54d90df8bae4780ab00c2ec7,,benign,female,nevus,10,0.0
+54d90df8bae4780ab00c2ecc,,benign,female,nevus,10,0.0
+54d90df8bae4780ab00c2ed1,,benign,female,nevus,15,0.0
+54d90df9bae4780ab00c2ed6,,benign,female,nevus,15,0.0
+54d90df9bae4780ab00c2edb,,benign,female,nevus,15,0.0
+54d90df9bae4780ab00c2ee0,,benign,female,nevus,15,0.0
+54d90dfabae4780ab00c2ee5,,benign,female,nevus,15,0.0
+54d90dfabae4780ab00c2eea,,benign,male,nevus,10,0.0
+54d90dfabae4780ab00c2eef,,benign,male,nevus,10,0.0
+54d90dfbbae4780ab00c2ef4,,benign,male,nevus,10,0.0
+54d90dfbbae4780ab00c2ef9,,benign,male,nevus,10,0.0
+54d90dfbbae4780ab00c2efe,,benign,male,nevus,15,0.0
+54d90dfcbae4780ab00c2f03,,benign,male,nevus,15,0.0
+54d90dfcbae4780ab00c2f08,,benign,male,nevus,15,0.0
+54d90dfdbae4780ab00c2f0d,,benign,female,nevus,10,0.0
+54d90dfdbae4780ab00c2f12,,benign,female,nevus,10,0.0
+54d90dfdbae4780ab00c2f17,,benign,female,nevus,10,0.0
+54d90dfebae4780ab00c2f1c,,benign,female,nevus,10,0.0
+54d90dfebae4780ab00c2f21,,benign,female,nevus,15,0.0
+54d90dfebae4780ab00c2f26,,benign,female,nevus,15,0.0
+54d90dffbae4780ab00c2f2b,,benign,female,nevus,15,0.0
+54d90dffbae4780ab00c2f30,,benign,female,nevus,15,0.0
+54d90dffbae4780ab00c2f35,,benign,female,nevus,15,0.0
+54d90e00bae4780ab00c2f3a,,benign,female,nevus,15,0.0
+54d90e00bae4780ab00c2f3f,,benign,female,nevus,15,0.0
+54d90e00bae4780ab00c2f44,,benign,female,nevus,15,0.0
+54d90e01bae4780ab00c2f49,,benign,female,nevus,15,0.0
+54d90e01bae4780ab00c2f4e,,benign,female,nevus,15,0.0
+54d90e02bae4780ab00c2f53,,benign,female,nevus,15,0.0
+54d90e02bae4780ab00c2f58,,benign,female,nevus,15,0.0
+54d90e02bae4780ab00c2f5d,,benign,female,nevus,15,0.0
+54d90e03bae4780ab00c2f62,,benign,female,nevus,15,0.0
+54d90e03bae4780ab00c2f67,,benign,female,nevus,15,0.0
+54d90e03bae4780ab00c2f6c,,benign,female,nevus,15,0.0
+54d90e04bae4780ab00c2f71,,benign,female,nevus,15,0.0
+54d90e04bae4780ab00c2f76,,benign,female,nevus,15,0.0
+54d90e04bae4780ab00c2f7b,,benign,female,nevus,15,0.0
+54d90e05bae4780ab00c2f80,,benign,female,nevus,15,0.0
+54d90e05bae4780ab00c2f85,,benign,female,nevus,15,0.0
+54d90e05bae4780ab00c2f8a,,benign,female,nevus,15,0.0
+54d90e06bae4780ab00c2f8f,,benign,female,nevus,15,0.0
+54d90e06bae4780ab00c2f94,,benign,female,nevus,15,0.0
+54d90e07bae4780ab00c2f99,,benign,female,nevus,15,0.0
+54d90e07bae4780ab00c2f9e,,benign,female,nevus,15,0.0
+54d90e07bae4780ab00c2fa3,,benign,male,nevus,10,0.0
+54d90e08bae4780ab00c2fa8,,benign,male,nevus,10,0.0
+54d90e08bae4780ab00c2fad,,benign,male,nevus,10,0.0
+54d90e08bae4780ab00c2fb2,,benign,male,nevus,15,0.0
+54d90e09bae4780ab00c2fb7,,benign,male,nevus,15,0.0
+54d90e09bae4780ab00c2fbc,,benign,female,nevus,10,0.0
+54d90e09bae4780ab00c2fc1,,benign,female,nevus,10,0.0
+54d90e0abae4780ab00c2fc6,,benign,female,nevus,15,0.0
+54d90e0abae4780ab00c2fcb,,benign,female,nevus,15,0.0
+54d90e0bbae4780ab00c2fd0,,benign,female,nevus,15,0.0
+54d90e0bbae4780ab00c2fd5,,benign,female,nevus,15,0.0
+54d90e0bbae4780ab00c2fda,,benign,male,nevus,10,0.0
+54d90e0cbae4780ab00c2fdf,,benign,male,nevus,10,0.0
+54d90e0cbae4780ab00c2fe4,,benign,male,nevus,10,0.0
+54d90e0cbae4780ab00c2fe9,,benign,male,nevus,15,0.0
+54d90e0dbae4780ab00c2fee,,benign,male,nevus,15,0.0
+54d90e0dbae4780ab00c2ff3,,benign,male,nevus,15,0.0
+54d90e0dbae4780ab00c2ff8,,benign,male,nevus,15,0.0
+54d90e0ebae4780ab00c2ffd,,benign,male,nevus,15,0.0
+54d90e0ebae4780ab00c3002,,benign,male,nevus,15,0.0
+54d90e0fbae4780ab00c3007,,benign,male,nevus,15,0.0
+54d90e0fbae4780ab00c300c,,benign,male,nevus,15,0.0
+54d90e0fbae4780ab00c3011,,benign,male,nevus,15,0.0
+54d90e10bae4780ab00c3016,,benign,male,nevus,15,0.0
+54d90e10bae4780ab00c301b,,benign,male,nevus,15,0.0
+54d90e10bae4780ab00c3020,,benign,male,nevus,15,0.0
+54d90e11bae4780ab00c3025,,benign,male,nevus,15,0.0
+54d90e11bae4780ab00c302a,,benign,male,nevus,15,0.0
+54d90e11bae4780ab00c302f,,benign,male,nevus,15,0.0
+54d90e12bae4780ab00c3034,,benign,male,nevus,15,0.0
+54d90e12bae4780ab00c3039,,benign,male,nevus,10,0.0
+54d90e12bae4780ab00c303e,,benign,male,nevus,10,0.0
+54d90e13bae4780ab00c3043,,benign,male,nevus,15,0.0
+54d90e13bae4780ab00c3048,,benign,male,nevus,15,0.0
+54d90e13bae4780ab00c304d,,benign,male,nevus,10,0.0
+54d90e14bae4780ab00c3052,,benign,male,nevus,10,0.0
+54d90e14bae4780ab00c3057,,benign,male,nevus,10,0.0
+54d90e14bae4780ab00c305c,,benign,male,nevus,15,0.0
+54d90e15bae4780ab00c3061,,benign,male,nevus,15,0.0
+54d90e15bae4780ab00c3066,,benign,male,nevus,15,0.0
+54d90e16bae4780ab00c306b,,benign,male,nevus,15,0.0
+54d90e16bae4780ab00c3070,,benign,male,nevus,15,0.0
+54d90e16bae4780ab00c3075,,benign,male,nevus,15,0.0
+54d90e17bae4780ab00c307a,,benign,male,nevus,15,0.0
+54d90e17bae4780ab00c307f,,benign,male,nevus,15,0.0
+54d90e17bae4780ab00c3084,,benign,male,nevus,15,0.0
+54d90e18bae4780ab00c3089,,benign,male,nevus,15,0.0
+54d90e18bae4780ab00c308e,,benign,male,nevus,15,0.0
+54d90e18bae4780ab00c3093,,benign,male,nevus,15,0.0
+54d90e19bae4780ab00c3098,,benign,male,nevus,15,0.0
+54d90e19bae4780ab00c309d,,benign,male,nevus,15,0.0
+54d90e19bae4780ab00c30a2,,benign,male,nevus,15,0.0
+54d90e1abae4780ab00c30a7,,benign,male,nevus,15,0.0
+54d90e1abae4780ab00c30ac,,benign,male,nevus,15,0.0
+54d90e1bbae4780ab00c30b1,,benign,male,nevus,10,0.0
+54d90e1bbae4780ab00c30b6,,benign,male,nevus,10,0.0
+54d90e1bbae4780ab00c30bb,,benign,male,nevus,10,0.0
+54d90e1cbae4780ab00c30c0,,benign,male,nevus,15,0.0
+54d90e1cbae4780ab00c30c5,,benign,male,nevus,15,0.0
+54d90e1dbae4780ab00c30ca,,benign,male,nevus,15,0.0
+54d90e1dbae4780ab00c30cf,,benign,male,nevus,15,0.0
+54d90e1ebae4780ab00c30d4,,benign,male,nevus,15,0.0
+54d90e1ebae4780ab00c30d9,,benign,male,nevus,15,0.0
+54d90e1fbae4780ab00c30de,,benign,male,nevus,15,0.0
+54d90e1fbae4780ab00c30e3,,benign,male,nevus,15,0.0
+54d90e1fbae4780ab00c30e8,,benign,female,nevus,10,0.0
+54d90e20bae4780ab00c30ed,,benign,female,nevus,10,0.0
+54d90e20bae4780ab00c30f2,,benign,female,nevus,15,0.0
+54d90e20bae4780ab00c30f7,,benign,female,nevus,15,0.0
+54d90e21bae4780ab00c30fc,,benign,male,nevus,10,0.0
+54d90e21bae4780ab00c3101,,benign,male,nevus,10,0.0
+54d90e21bae4780ab00c3106,,benign,male,nevus,10,0.0
+54d90e22bae4780ab00c310b,,benign,male,nevus,10,0.0
+54d90e22bae4780ab00c3110,,benign,male,nevus,10,0.0
+54d90e22bae4780ab00c3115,,benign,male,nevus,15,0.0
+54d90e23bae4780ab00c311a,,benign,male,nevus,15,0.0
+54d90e23bae4780ab00c311f,,benign,male,nevus,15,0.0
+54d90e24bae4780ab00c3124,,benign,male,nevus,15,0.0
+54d90e24bae4780ab00c3129,,benign,female,nevus,10,0.0
+54d90e24bae4780ab00c312e,,benign,female,nevus,10,0.0
+54d90e25bae4780ab00c3133,,benign,female,nevus,10,0.0
+54d90e25bae4780ab00c3138,,benign,female,nevus,10,0.0
+54d90e25bae4780ab00c313d,,benign,female,nevus,10,0.0
+54d90e26bae4780ab00c3142,,benign,female,nevus,15,0.0
+54d90e26bae4780ab00c3147,,benign,female,nevus,15,0.0
+54d90e26bae4780ab00c314c,,benign,female,nevus,15,0.0
+54d90e27bae4780ab00c3151,,benign,female,nevus,15,0.0
+54d90e27bae4780ab00c3156,,benign,female,nevus,15,0.0
+54d90e28bae4780ab00c315b,,benign,female,nevus,15,0.0
+54d90e28bae4780ab00c3160,,benign,female,nevus,15,0.0
+54d90e29bae4780ab00c3165,,benign,female,nevus,15,0.0
+54d90e2abae4780ab00c316a,,benign,female,nevus,15,0.0
+54d90e2abae4780ab00c316f,,benign,female,nevus,15,0.0
+54d90e2bbae4780ab00c3174,,benign,female,nevus,15,0.0
+54d90e2cbae4780ab00c3179,,benign,female,nevus,15,0.0
+54d90e2cbae4780ab00c317e,,benign,female,nevus,15,0.0
+54d90e2dbae4780ab00c3183,,benign,female,nevus,15,0.0
+54d90e2dbae4780ab00c3188,,benign,female,nevus,15,0.0
+54d90e2ebae4780ab00c318d,,benign,female,nevus,15,0.0
+54d90e2fbae4780ab00c3192,,benign,female,nevus,15,0.0
+54d90e2fbae4780ab00c3197,,benign,female,nevus,15,0.0
+54d90e2fbae4780ab00c319c,,benign,female,nevus,15,0.0
+54d90e30bae4780ab00c31a1,,benign,female,nevus,15,0.0
+54d90e30bae4780ab00c31a6,,benign,female,nevus,15,0.0
+54d90e30bae4780ab00c31ab,,benign,female,nevus,15,0.0
+54d90e31bae4780ab00c31b0,,benign,female,nevus,15,0.0
+54d90e31bae4780ab00c31b5,,benign,female,nevus,15,0.0
+54d90e31bae4780ab00c31ba,,benign,female,nevus,15,0.0
+54d90e32bae4780ab00c31bf,,benign,female,nevus,15,0.0
+54d90e32bae4780ab00c31c4,,benign,female,nevus,15,0.0
+54d90e32bae4780ab00c31c9,,benign,female,nevus,15,0.0
+54d90e33bae4780ab00c31ce,,benign,female,nevus,15,0.0
+54d90e33bae4780ab00c31d3,,benign,female,nevus,15,0.0
+54d90e34bae4780ab00c31d8,,benign,female,nevus,15,0.0
+54d90e34bae4780ab00c31dd,,benign,female,nevus,15,0.0
+54d90e34bae4780ab00c31e2,,benign,male,nevus,10,0.0
+54d90e35bae4780ab00c31e7,,benign,male,nevus,10,0.0
+54d90e35bae4780ab00c31ec,,benign,male,nevus,10,0.0
+54d90e35bae4780ab00c31f1,,benign,male,nevus,10,0.0
+54d90e36bae4780ab00c31f6,,benign,male,nevus,10,0.0
+54d90e36bae4780ab00c31fb,,benign,male,nevus,15,0.0
+54d90e36bae4780ab00c3200,,benign,male,nevus,15,0.0
+54d90e37bae4780ab00c3205,,benign,male,nevus,15,0.0
+54d90e37bae4780ab00c320a,,benign,male,nevus,15,0.0
+54d90e37bae4780ab00c320f,,benign,male,nevus,15,0.0
+54d90e38bae4780ab00c3214,,benign,male,nevus,15,0.0
+54d90e38bae4780ab00c3219,,benign,male,nevus,15,0.0
+54d90e38bae4780ab00c321e,,benign,male,nevus,15,0.0
+54d90e39bae4780ab00c3223,,benign,male,nevus,15,0.0
+54d90e39bae4780ab00c3228,,benign,male,nevus,15,0.0
+54d90e39bae4780ab00c322d,,benign,male,nevus,15,0.0
+54d90e3abae4780ab00c3232,,benign,male,nevus,15,0.0
+54d90e3abae4780ab00c3237,,benign,male,nevus,15,0.0
+54d90e3abae4780ab00c323c,,benign,male,nevus,15,0.0
+54d90e3bbae4780ab00c3241,,benign,male,nevus,15,0.0
+54d90e3bbae4780ab00c3246,,benign,male,nevus,15,0.0
+54d90e3bbae4780ab00c324b,,benign,male,nevus,15,0.0
+54d90e3cbae4780ab00c3250,,benign,male,nevus,15,0.0
+54d90e3cbae4780ab00c3255,,benign,male,nevus,15,0.0
+54d90e3dbae4780ab00c325a,,benign,male,nevus,15,0.0
+54d90e3dbae4780ab00c325f,,benign,male,nevus,15,0.0
+54d90e3dbae4780ab00c3264,,benign,male,nevus,15,0.0
+54d90e3ebae4780ab00c3269,,benign,male,nevus,15,0.0
+54d90e3ebae4780ab00c326e,,benign,male,nevus,15,0.0
+54d90e3ebae4780ab00c3273,,benign,male,nevus,10,0.0
+54d90e3fbae4780ab00c3278,,benign,male,nevus,10,0.0
+54d90e3fbae4780ab00c327d,,benign,male,nevus,15,0.0
+54d90e3fbae4780ab00c3282,,benign,male,nevus,15,0.0
+54d90e40bae4780ab00c3287,,benign,female,nevus,10,0.0
+54d90e40bae4780ab00c328c,,benign,female,nevus,10,0.0
+54d90e40bae4780ab00c3291,,benign,female,nevus,10,0.0
+54d90e41bae4780ab00c3296,,benign,female,nevus,10,0.0
+54d90e41bae4780ab00c329b,,benign,female,nevus,15,0.0
+54d90e41bae4780ab00c32a0,,benign,female,nevus,15,0.0
+54d90e42bae4780ab00c32a5,,benign,female,nevus,15,0.0
+54d90e42bae4780ab00c32aa,,benign,female,nevus,15,0.0
+54d90e43bae4780ab00c32af,,benign,female,nevus,15,0.0
+54d90e43bae4780ab00c32b4,,benign,female,nevus,15,0.0
+54d90e43bae4780ab00c32b9,,benign,female,nevus,15,0.0
+54d90e44bae4780ab00c32be,,benign,female,nevus,15,0.0
+54d90e44bae4780ab00c32c3,,benign,female,nevus,15,0.0
+54d90e44bae4780ab00c32c8,,benign,female,nevus,15,0.0
+54d90e45bae4780ab00c32cd,,benign,female,nevus,15,0.0
+54d90e45bae4780ab00c32d2,,benign,male,nevus,10,0.0
+54d90e45bae4780ab00c32d7,,benign,male,nevus,10,0.0
+54d90e46bae4780ab00c32dc,,benign,male,nevus,10,0.0
+54d90e46bae4780ab00c32e1,,benign,male,nevus,15,0.0
+54d90e46bae4780ab00c32e6,,benign,male,nevus,15,0.0
+54e755f8bae47850e86ce00d,,benign,,dermatofibroma,85,0.47
+54e755fabae47850e86ce02b,posterior torso,malignant,male,basal cell carcinoma,60,0.81
+54e755febae47850e86ce05d,,benign,,dermatofibroma,85,0.47
+54e75604bae47850e86ce0bc,posterior torso,malignant,male,basal cell carcinoma,60,0.81
+54e75608bae47850e86ce0ee,head/neck,malignant,female,basal cell carcinoma,80,0.96
+558d6336bae47801cf734c18,head/neck,benign,male,actinic keratosis,85,0.47
+558d6338bae47801cf734c21,lower extremity,malignant,male,basal cell carcinoma,65,0.34
+558d63f4bae47801cf735083,anterior torso,benign,female,actinic keratosis,35,0.13
+558d6474bae47801cf735377,posterior torso,malignant,male,basal cell carcinoma,75,0.92
+558d649ebae47801cf73546a,head/neck,malignant,female,basal cell carcinoma,70,0.89
+5592ac4a9fc3c13155a57a67,lower extremity,malignant,female,basal cell carcinoma,55,0.77
+5592ac5b9fc3c13155a57a8a,lower extremity,benign,female,dermatofibroma,65,0.34
+5592ac9b9fc3c13155a57afd,upper extremity,benign,male,dermatofibroma,60,0.3
+5592ace19fc3c13155a57b70,upper extremity,malignant,female,basal cell carcinoma,85,1.0
+5592ad239fc3c13155a57bde,lower extremity,benign,male,dermatofibroma,85,0.47
+5592cc709fc3c13155145629,lower extremity,malignant,male,basal cell carcinoma,75,0.92
+5592cc739fc3c1315514562e,lower extremity,malignant,male,basal cell carcinoma,75,0.92
+5592cfca9fc3c131551458e7,posterior torso,malignant,male,basal cell carcinoma,70,0.89
+5592cfca9fc3c131551458ea,posterior torso,malignant,male,basal cell carcinoma,70,0.89
+5592cfca9fc3c13155145917,posterior torso,malignant,male,basal cell carcinoma,85,1.0
+5592cfca9fc3c13155145920,anterior torso,malignant,male,basal cell carcinoma,85,1.0
+5592cfca9fc3c13155145923,anterior torso,malignant,male,basal cell carcinoma,85,1.0
+5592cfca9fc3c13155145929,upper extremity,malignant,male,basal cell carcinoma,55,0.77
+5592db809fc3c131551459bd,lower extremity,benign,male,dermatofibroma,75,0.4
+5592dc9b9fc3c13155145acb,anterior torso,malignant,male,basal cell carcinoma,85,1.0
+5592fe5c9fc3c13155145dd1,upper extremity,malignant,female,basal cell carcinoma,65,0.85
+5592fe8f9fc3c13155145e30,anterior torso,malignant,male,basal cell carcinoma,85,1.0
+5592fe939fc3c13155145e35,anterior torso,malignant,male,basal cell carcinoma,85,1.0
+5592fea19fc3c13155145e49,anterior torso,malignant,male,basal cell carcinoma,85,1.0
+5593f3d69fc3c13155145fe9,head/neck,malignant,female,basal cell carcinoma,70,0.89
+5593f4489fc3c131551460a7,upper extremity,malignant,male,basal cell carcinoma,70,0.89
+5593f47b9fc3c131551460fc,upper extremity,benign,male,dermatofibroma,45,0.2
+559431539fc3c1315514623f,head/neck,malignant,male,basal cell carcinoma,65,0.85
+559431559fc3c13155146244,upper extremity,malignant,male,basal cell carcinoma,85,1.0
+5594319d9fc3c131551462c1,head/neck,malignant,male,basal cell carcinoma,45,0.7
+559436439fc3c13155146557,lower extremity,malignant,male,basal cell carcinoma,80,0.96
+5594376c9fc3c131551465a9,head/neck,malignant,male,basal cell carcinoma,70,0.89
+559437939fc3c131551465f4,upper extremity,malignant,male,basal cell carcinoma,85,1.0
+5594379a9fc3c131551465fe,lower extremity,malignant,female,basal cell carcinoma,85,1.0
+559437c29fc3c1315514663f,anterior torso,malignant,male,basal cell carcinoma,85,1.0
+559437cf9fc3c13155146658,head/neck,malignant,female,basal cell carcinoma,65,0.85
+5aa2bef21165972a9e961692,,malignant,male,basal cell carcinoma,80,0.96
+5aa3003d1165972a9e9616ae,,malignant,male,basal cell carcinoma,75,0.92
+5aa302f11165972a9e9617f2,,malignant,female,basal cell carcinoma,70,0.89
+5aa3037f1165972a9e961843,,malignant,male,basal cell carcinoma,50,0.73
+5aa304cf1165972a9e9618e5,,malignant,male,basal cell carcinoma,55,0.77
+5aa3051c1165972a9e96191b,,malignant,female,basal cell carcinoma,55,0.77
+5aa305381165972a9e961936,,malignant,male,basal cell carcinoma,60,0.81
+5aa3055a1165972a9e961951,,malignant,male,basal cell carcinoma,55,0.77
+5aa306681165972a9e9619d8,,malignant,male,basal cell carcinoma,85,1.0
+5aa306881165972a9e9619f3,,malignant,female,basal cell carcinoma,80,0.96
+5aa307dd1165972a9e961acb,,malignant,male,basal cell carcinoma,70,0.89
+5aa308001165972a9e961ae6,,malignant,male,basal cell carcinoma,70,0.89
+5aa3081c1165972a9e961b01,,malignant,female,basal cell carcinoma,85,1.0
+5aa308d91165972a9e961b6d,,malignant,female,basal cell carcinoma,70,0.89
+5aa309221165972a9e961ba3,,malignant,male,basal cell carcinoma,65,0.85
+5aa309451165972a9e961bbe,,malignant,male,basal cell carcinoma,65,0.85
+5aa30a601165972a9e961bf4,,malignant,male,basal cell carcinoma,75,0.92
+5aa30d591165972a9e961ccc,,malignant,female,basal cell carcinoma,50,0.73
+5aa30e201165972a9e961d38,,malignant,male,basal cell carcinoma,55,0.77
+5aa30e441165972a9e961d53,,malignant,male,basal cell carcinoma,55,0.77
+5aa311761165972a9e961d89,,malignant,female,basal cell carcinoma,55,0.77
+5aa311961165972a9e961da4,,malignant,male,basal cell carcinoma,65,0.85
+5aa311ed1165972a9e961dda,,malignant,male,basal cell carcinoma,75,0.92
+5aa312081165972a9e961df5,,malignant,male,basal cell carcinoma,65,0.85
+5aa312441165972a9e961e10,,malignant,female,basal cell carcinoma,35,0.62
+5aa3125e1165972a9e961e2b,,malignant,male,basal cell carcinoma,80,0.96
+5aa3138d1165972a9e961eb2,,malignant,male,basal cell carcinoma,75,0.92
+5aa313ae1165972a9e961ecd,,malignant,male,basal cell carcinoma,85,1.0
+5aa314051165972a9e961f1e,,malignant,male,basal cell carcinoma,55,0.77
+5aa315111165972a9e961fc0,,malignant,male,basal cell carcinoma,30,0.58
+5aa3159d1165972a9e96202c,,malignant,female,basal cell carcinoma,80,0.96
+5aa316091165972a9e962062,,malignant,female,basal cell carcinoma,55,0.77
+5aaf12491165976913627ecc,lower extremity,benign,male,pigmented benign keratosis,75,0.92
+5aaf124a1165976913627f22,lower extremity,benign,female,dermatofibroma,65,0.85
+5aaf124b1165976913627f6a,posterior torso,benign,male,pigmented benign keratosis,85,1.0
+5aaf124b1165976913627fb6,lower extremity,benign,male,dermatofibroma,40,0.66
+5aaf124c1165976913627fc3,lower extremity,malignant,male,basal cell carcinoma,65,0.85
+5aaf124c1165976913627fd4,,malignant,male,basal cell carcinoma,60,0.81
+5aaf124c1165976913628006,lower extremity,benign,female,pigmented benign keratosis,50,0.73
+5aaf124c1165976913628011,lower extremity,benign,female,pigmented benign keratosis,50,0.73
+5aaf124c116597691362801c,head/neck,benign,female,pigmented benign keratosis,45,0.7
+5aaf124d1165976913628074,posterior torso,malignant,male,basal cell carcinoma,85,1.0
+5aaf124e1165976913628119,posterior torso,benign,female,pigmented benign keratosis,60,0.81
+5aaf124e116597691362812f,anterior torso,malignant,female,basal cell carcinoma,50,0.73
+5aaf124f11659769136281b4,,,male,vascular lesion,55,0.77
+5aaf125011659769136281bf,lower extremity,benign,male,pigmented benign keratosis,70,0.89
+5aaf125011659769136281ee,anterior torso,,female,vascular lesion,70,0.89
+5aaf1250116597691362823a,posterior torso,benign,female,pigmented benign keratosis,75,0.92
+5aaf12511165976913628249,head/neck,benign,male,pigmented benign keratosis,70,0.89
+5aaf12511165976913628256,,benign,female,pigmented benign keratosis,70,0.89
+5aaf12511165976913628283,lower extremity,benign,female,dermatofibroma,40,0.66
+5aaf125211659769136282f7,lower extremity,benign,female,dermatofibroma,65,0.85
+5aaf12531165976913628350,posterior torso,,female,vascular lesion,0,0.47
+5aaf1253116597691362835b,posterior torso,malignant,male,basal cell carcinoma,65,0.85
+5aaf12531165976913628395,head/neck,benign,female,pigmented benign keratosis,35,0.62
+5aaf125311659769136283a0,head/neck,benign,female,pigmented benign keratosis,55,0.77
+5aaf125411659769136283b6,head/neck,malignant,male,basal cell carcinoma,75,0.92
+5aaf125411659769136283c1,posterior torso,benign,male,pigmented benign keratosis,35,0.62
+5aaf12551165976913628437,head/neck,benign,male,pigmented benign keratosis,55,0.77
+5aaf1255116597691362844d,upper extremity,benign,male,pigmented benign keratosis,75,0.92
+5aaf1255116597691362847a,posterior torso,benign,male,pigmented benign keratosis,50,0.73
+5aaf125611659769136284b4,head/neck,malignant,male,basal cell carcinoma,45,0.7
+5aaf125611659769136284c1,head/neck,malignant,male,basal cell carcinoma,65,0.85
+5aaf125611659769136284f7,head/neck,benign,male,pigmented benign keratosis,55,0.77
+5aaf12561165976913628502,posterior torso,malignant,male,basal cell carcinoma,80,0.96
+5aaf12571165976913628552,posterior torso,malignant,male,basal cell carcinoma,55,0.77
+5aaf12571165976913628568,lower extremity,benign,male,pigmented benign keratosis,55,0.77
+5aaf12571165976913628576,upper extremity,benign,male,pigmented benign keratosis,45,0.7
+5aaf12571165976913628595,upper extremity,malignant,male,basal cell carcinoma,65,0.85
+5aaf125811659769136285ca,posterior torso,malignant,male,basal cell carcinoma,40,0.66
+5aaf125811659769136285d8,head/neck,benign,female,pigmented benign keratosis,65,0.85
+5aaf125811659769136285e7,lower extremity,malignant,male,basal cell carcinoma,80,0.96
+5aaf1258116597691362860a,head/neck,malignant,male,basal cell carcinoma,85,1.0
+5aaf12591165976913628639,lower extremity,malignant,female,basal cell carcinoma,80,0.96
+5aaf125a116597691362869a,head/neck,,male,actinic keratosis,75,0.92
+5aaf125a11659769136286b4,upper extremity,,male,actinic keratosis,60,0.81
+5aaf125a11659769136286bf,upper extremity,benign,male,pigmented benign keratosis,55,0.77
+5aaf125a11659769136286ca,lower extremity,malignant,male,basal cell carcinoma,85,1.0
+5aaf125a11659769136286ee,head/neck,,male,vascular lesion,35,0.62
+5aaf125a1165976913628704,posterior torso,benign,male,pigmented benign keratosis,60,0.81
+5aaf125c11659769136287a6,head/neck,benign,female,pigmented benign keratosis,75,0.92
+5aaf125c11659769136287b1,head/neck,benign,male,pigmented benign keratosis,75,0.92
+5aaf125c11659769136287dd,anterior torso,benign,female,pigmented benign keratosis,55,0.77
+5aaf125c11659769136287eb,lower extremity,benign,female,pigmented benign keratosis,45,0.7
+5aaf125c116597691362880d,head/neck,benign,male,pigmented benign keratosis,70,0.89
+5aaf125d1165976913628866,head/neck,malignant,female,basal cell carcinoma,85,1.0
+5aaf125d1165976913628871,head/neck,benign,female,pigmented benign keratosis,40,0.66
+5aaf125e11659769136288b6,head/neck,,female,actinic keratosis,55,0.77
+5aaf125e11659769136288e8,posterior torso,malignant,male,basal cell carcinoma,65,0.85
+5aaf12611165976913628a7e,posterior torso,benign,male,pigmented benign keratosis,65,0.85
+5aaf12621165976913628aac,lower extremity,malignant,male,basal cell carcinoma,75,0.92
+5aaf12621165976913628ad2,upper extremity,benign,female,dermatofibroma,50,0.73
+5aaf12631165976913628b5b,upper extremity,malignant,male,basal cell carcinoma,65,0.85
+5aaf12641165976913628bca,posterior torso,malignant,female,basal cell carcinoma,75,0.92
+5aaf12641165976913628bd5,head/neck,malignant,male,basal cell carcinoma,85,1.0
+5aaf12651165976913628c33,lower extremity,benign,male,pigmented benign keratosis,40,0.66
+5aaf12651165976913628c41,posterior torso,malignant,male,basal cell carcinoma,75,0.92
+5aaf12661165976913628cb0,posterior torso,malignant,male,basal cell carcinoma,80,0.96
+5aaf12661165976913628cc7,anterior torso,benign,female,pigmented benign keratosis,40,0.66
+5aaf12661165976913628ce8,posterior torso,malignant,female,basal cell carcinoma,65,0.85
+5aaf12671165976913628d44,head/neck,benign,female,pigmented benign keratosis,75,0.92
+5aaf12681165976913628dc1,posterior torso,benign,male,pigmented benign keratosis,85,1.0
+5aaf12691165976913628e55,anterior torso,benign,female,pigmented benign keratosis,85,1.0
+5aaf12691165976913628e79,posterior torso,benign,male,pigmented benign keratosis,70,0.89
+5aaf126a1165976913628ec0,upper extremity,malignant,female,basal cell carcinoma,70,0.89
+5aaf126a1165976913628edd,posterior torso,malignant,female,basal cell carcinoma,80,0.96
+5aaf126a1165976913628eec,head/neck,benign,female,pigmented benign keratosis,60,0.81
+5aaf126b1165976913628f52,anterior torso,benign,male,pigmented benign keratosis,35,0.62
+5aaf126b1165976913628f74,head/neck,,female,actinic keratosis,70,0.89
+5aaf126c1165976913628fe5,lower extremity,,female,actinic keratosis,75,0.92
+5aaf126d1165976913629041,,,male,vascular lesion,75,0.92
+5aaf126d1165976913629067,anterior torso,malignant,female,basal cell carcinoma,65,0.85
+5aaf126d1165976913629074,posterior torso,malignant,male,basal cell carcinoma,65,0.85
+5aaf126d11659769136290a2,anterior torso,,female,vascular lesion,25,0.55
+5aaf126e11659769136290ca,posterior torso,benign,male,pigmented benign keratosis,65,0.85
+5aaf126e11659769136290d8,posterior torso,malignant,male,basal cell carcinoma,70,0.89
+5aaf126e11659769136290f9,head/neck,benign,female,pigmented benign keratosis,75,0.92
+5aaf127011659769136291f4,upper extremity,benign,male,pigmented benign keratosis,75,0.92
+5aaf12711165976913629270,head/neck,benign,female,pigmented benign keratosis,45,0.7
+5aaf1271116597691362927e,,,male,vascular lesion,50,0.73
+5aaf1271116597691362928a,head/neck,,male,actinic keratosis,60,0.81
+5aaf12711165976913629295,posterior torso,benign,male,pigmented benign keratosis,80,0.96
+5aaf127111659769136292a0,upper extremity,benign,female,pigmented benign keratosis,65,0.85
+5aaf127211659769136292b6,anterior torso,benign,male,pigmented benign keratosis,75,0.92
+5aaf12731165976913629379,posterior torso,benign,male,pigmented benign keratosis,65,0.85
+5aaf12751165976913629430,posterior torso,benign,male,pigmented benign keratosis,55,0.77
+5aaf1275116597691362943c,lower extremity,benign,male,pigmented benign keratosis,75,0.92
+5aaf12751165976913629452,lower extremity,malignant,female,basal cell carcinoma,65,0.85
+5aaf12751165976913629482,head/neck,,female,vascular lesion,70,0.89
+5aaf1275116597691362948d,anterior torso,benign,male,pigmented benign keratosis,45,0.7
+5aaf12761165976913629512,head/neck,benign,female,pigmented benign keratosis,70,0.89
+5aaf1276116597691362952b,upper extremity,benign,male,pigmented benign keratosis,50,0.73
+5aaf12761165976913629536,head/neck,benign,male,pigmented benign keratosis,65,0.85
+5aaf1277116597691362954c,head/neck,,male,actinic keratosis,65,0.85
+5aaf127711659769136295a9,head/neck,benign,male,pigmented benign keratosis,50,0.73
+5aaf127811659769136295ba,head/neck,,male,actinic keratosis,75,0.92
+5aaf127811659769136295c6,lower extremity,benign,male,pigmented benign keratosis,70,0.89
+5aaf127811659769136295d4,lower extremity,benign,male,pigmented benign keratosis,70,0.89
+5aaf127811659769136295e2,head/neck,benign,female,pigmented benign keratosis,35,0.62
+5aaf1279116597691362963f,anterior torso,benign,female,pigmented benign keratosis,65,0.85
+5aaf12791165976913629678,lower extremity,benign,male,pigmented benign keratosis,70,0.89
+5aaf12791165976913629689,upper extremity,malignant,male,basal cell carcinoma,45,0.7
+5aaf127a11659769136296e8,posterior torso,malignant,male,basal cell carcinoma,55,0.77
+5aaf127a1165976913629719,anterior torso,malignant,male,basal cell carcinoma,45,0.7
+5aaf127a1165976913629726,posterior torso,,male,actinic keratosis,50,0.73
+5aaf127c11659769136297da,head/neck,benign,female,pigmented benign keratosis,50,0.73
+5aaf127d116597691362986b,lower extremity,benign,male,pigmented benign keratosis,70,0.89
+5aaf127d116597691362989a,head/neck,malignant,male,basal cell carcinoma,75,0.92
+5aaf127d11659769136298bd,head/neck,benign,female,pigmented benign keratosis,40,0.66
+5aaf127e11659769136298ca,posterior torso,malignant,male,basal cell carcinoma,65,0.85
+5aaf127e116597691362991a,head/neck,benign,male,pigmented benign keratosis,50,0.73
+5aaf127f1165976913629968,lower extremity,benign,male,dermatofibroma,40,0.66
+5aaf127f116597691362998d,posterior torso,malignant,male,basal cell carcinoma,80,0.96
+5aaf127f11659769136299a3,head/neck,benign,female,pigmented benign keratosis,55,0.77
+5aaf127f11659769136299ae,posterior torso,benign,male,pigmented benign keratosis,85,1.0
+5aaf12811165976913629a7b,,,male,vascular lesion,75,0.92
+5aaf12811165976913629ab4,head/neck,benign,male,pigmented benign keratosis,65,0.85
+5aaf12821165976913629b04,head/neck,benign,male,pigmented benign keratosis,50,0.73
+5aaf12821165976913629b25,anterior torso,benign,male,pigmented benign keratosis,40,0.66
+5aaf12821165976913629b30,posterior torso,benign,male,pigmented benign keratosis,65,0.85
+5aaf12821165976913629b4a,lower extremity,benign,female,pigmented benign keratosis,35,0.62
+5aaf12831165976913629b60,posterior torso,malignant,female,basal cell carcinoma,50,0.73
+5aaf12831165976913629baa,upper extremity,benign,female,pigmented benign keratosis,60,0.81
+5aaf12831165976913629bcf,head/neck,benign,female,pigmented benign keratosis,65,0.85
+5aaf12841165976913629bfe,posterior torso,malignant,female,basal cell carcinoma,75,0.92
+5aaf12841165976913629c59,upper extremity,,male,vascular lesion,75,0.92
+5aaf12851165976913629c99,head/neck,benign,female,pigmented benign keratosis,85,1.0
+5aaf12851165976913629ca7,head/neck,benign,female,pigmented benign keratosis,70,0.89
+5aaf12851165976913629ccc,posterior torso,,male,actinic keratosis,85,1.0
+5aaf12861165976913629ce2,head/neck,benign,female,pigmented benign keratosis,55,0.77
+5aaf12871165976913629daf,upper extremity,malignant,male,basal cell carcinoma,85,1.0
+5aaf12881165976913629e4a,head/neck,benign,female,pigmented benign keratosis,75,0.92
+5aaf12891165976913629e7e,head/neck,benign,male,pigmented benign keratosis,40,0.66
+5aaf12891165976913629e89,head/neck,,female,actinic keratosis,55,0.77
+5aaf12891165976913629e94,upper extremity,malignant,male,basal cell carcinoma,75,0.92
+5aaf128b1165976913629fa0,anterior torso,benign,male,pigmented benign keratosis,85,1.0
+5aaf128b1165976913629fac,head/neck,benign,male,pigmented benign keratosis,50,0.73
+5aaf128b1165976913629fca,lower extremity,benign,male,dermatofibroma,75,0.92
+5aaf128c116597691362a030,head/neck,benign,male,pigmented benign keratosis,80,0.96
+5aaf128c116597691362a03b,head/neck,benign,male,pigmented benign keratosis,55,0.77
+5aaf128c116597691362a051,posterior torso,malignant,female,basal cell carcinoma,55,0.77
+5aaf128d116597691362a0d9,lower extremity,benign,female,dermatofibroma,40,0.66
+5aaf128e116597691362a0fb,posterior torso,benign,male,pigmented benign keratosis,60,0.81
+5aaf128f116597691362a170,head/neck,benign,male,pigmented benign keratosis,70,0.89
+5aaf1291116597691362a208,posterior torso,benign,male,pigmented benign keratosis,75,0.92
+5aaf1291116597691362a22c,anterior torso,malignant,male,basal cell carcinoma,65,0.85
+5aaf1292116597691362a2b7,head/neck,benign,male,pigmented benign keratosis,80,0.96
+5aaf1292116597691362a2c4,anterior torso,malignant,male,basal cell carcinoma,60,0.81
+5aaf1293116597691362a2d5,posterior torso,benign,female,pigmented benign keratosis,75,0.92
+5aaf1293116597691362a2e2,posterior torso,benign,male,pigmented benign keratosis,60,0.81
+5aaf1293116597691362a31b,head/neck,benign,female,pigmented benign keratosis,60,0.81
+5aaf1293116597691362a334,lower extremity,benign,female,pigmented benign keratosis,35,0.62
+5aaf1294116597691362a387,anterior torso,malignant,female,basal cell carcinoma,65,0.85
+5aaf1296116597691362a460,head/neck,benign,male,pigmented benign keratosis,85,1.0
+5aaf1296116597691362a46c,lower extremity,benign,female,pigmented benign keratosis,35,0.62
+5aaf1296116597691362a48a,upper extremity,benign,male,pigmented benign keratosis,60,0.81
+5aaf1296116597691362a4a1,head/neck,benign,male,pigmented benign keratosis,80,0.96
+5aaf1297116597691362a4f2,upper extremity,benign,male,pigmented benign keratosis,60,0.81
+5aaf1297116597691362a4fd,upper extremity,benign,male,pigmented benign keratosis,50,0.73
+5aaf1298116597691362a561,posterior torso,benign,male,pigmented benign keratosis,55,0.77
+5aaf1298116597691362a585,lower extremity,benign,female,pigmented benign keratosis,75,0.92
+5aaf1299116597691362a631,anterior torso,benign,male,pigmented benign keratosis,60,0.81
+5aaf129a116597691362a653,lower extremity,malignant,male,basal cell carcinoma,70,0.89
+5aaf129a116597691362a65e,head/neck,benign,female,pigmented benign keratosis,70,0.89
+5aaf129b116597691362a6e2,lower extremity,benign,female,pigmented benign keratosis,70,0.89
+5aaf129d116597691362a7c8,posterior torso,benign,female,pigmented benign keratosis,75,0.92
+5aaf129d116597691362a805,anterior torso,benign,female,pigmented benign keratosis,55,0.77
+5aaf129e116597691362a835,head/neck,benign,male,pigmented benign keratosis,75,0.92
+5aaf129e116597691362a864,posterior torso,malignant,male,basal cell carcinoma,75,0.92
+5aaf129f116597691362a8e9,upper extremity,benign,male,dermatofibroma,55,0.77
+5aaf129f116597691362a90a,head/neck,benign,male,pigmented benign keratosis,45,0.7
+5aaf12a2116597691362aa37,anterior torso,benign,female,pigmented benign keratosis,35,0.62
+5aaf12a3116597691362ab11,anterior torso,,female,vascular lesion,50,0.73
+5aaf12a4116597691362ab2f,lower extremity,benign,female,pigmented benign keratosis,60,0.81
+5aaf12a4116597691362aba4,posterior torso,benign,female,pigmented benign keratosis,70,0.89
+5aaf12a6116597691362ac4d,head/neck,benign,female,pigmented benign keratosis,65,0.85
+5aaf12a6116597691362ac58,upper extremity,benign,male,dermatofibroma,60,0.81
+5aaf12a8116597691362ad67,,,female,vascular lesion,45,0.7
+5aaf12a9116597691362adaf,lower extremity,,female,vascular lesion,30,0.58
+5aaf12a9116597691362adbb,head/neck,,male,vascular lesion,30,0.58
+5aaf12aa116597691362ae33,posterior torso,malignant,male,basal cell carcinoma,70,0.89
+5aaf12aa116597691362ae88,upper extremity,malignant,female,basal cell carcinoma,65,0.85
+5aaf12ab116597691362aef2,posterior torso,benign,female,pigmented benign keratosis,70,0.89
+5aaf12ab116597691362aefd,,benign,female,pigmented benign keratosis,55,0.77
+5aaf12ac116597691362af79,upper extremity,malignant,female,basal cell carcinoma,75,0.92
+5aaf12ac116597691362af85,lower extremity,benign,male,pigmented benign keratosis,50,0.73
+5aaf12ad116597691362afcb,head/neck,benign,male,pigmented benign keratosis,85,1.0
+5aaf12ad116597691362b013,head/neck,benign,female,pigmented benign keratosis,75,0.92
+5aaf12ae116597691362b053,lower extremity,benign,female,dermatofibroma,60,0.81
+5aaf12af116597691362b0d2,head/neck,benign,female,pigmented benign keratosis,65,0.85
+5aaf12af116597691362b0eb,lower extremity,benign,female,dermatofibroma,35,0.62
+5aaf12b0116597691362b142,lower extremity,,male,vascular lesion,85,1.0
+5aaf12b0116597691362b17d,upper extremity,benign,female,pigmented benign keratosis,50,0.73
+5aaf12b1116597691362b1b6,lower extremity,benign,female,pigmented benign keratosis,50,0.73
+5aaf12b1116597691362b210,head/neck,benign,male,pigmented benign keratosis,35,0.62
+5aaf12b1116597691362b226,head/neck,benign,male,pigmented benign keratosis,65,0.85
+5aaf12b2116597691362b274,lower extremity,benign,male,pigmented benign keratosis,70,0.89
+5aaf12b3116597691362b2c5,upper extremity,benign,male,pigmented benign keratosis,75,0.92
+5aaf12b4116597691362b387,,benign,female,pigmented benign keratosis,50,0.73
+5aaf12b4116597691362b39e,head/neck,,female,actinic keratosis,40,0.66
+5aaf12b5116597691362b3d8,lower extremity,benign,female,dermatofibroma,35,0.62
+5aaf12b5116597691362b3e3,head/neck,benign,female,pigmented benign keratosis,75,0.92
+5aaf12b5116597691362b3f9,posterior torso,benign,male,pigmented benign keratosis,75,0.92
+5aaf12b5116597691362b417,head/neck,benign,female,pigmented benign keratosis,55,0.77
+5aaf12ba116597691362b671,,,male,vascular lesion,50,0.73
+5aaf12ba116597691362b688,upper extremity,,male,actinic keratosis,85,1.0
+5aaf12bd116597691362b7cf,anterior torso,,female,vascular lesion,55,0.77
+5aaf12c2116597691362ba66,lower extremity,benign,female,dermatofibroma,50,0.73
+5aaf12c9116597691362be0f,posterior torso,,male,vascular lesion,5,0.47
+5aaf12ca116597691362bedd,lower extremity,benign,female,dermatofibroma,65,0.85
+5aaf12cb116597691362bef3,anterior torso,,female,vascular lesion,45,0.7
+5aaf12cb116597691362bf1c,head/neck,,male,vascular lesion,15,0.47
+5aaf12cb116597691362bf6d,lower extremity,,female,actinic keratosis,60,0.81
+5aaf12cc116597691362bf7a,head/neck,,male,vascular lesion,55,0.77
+5aaf12cc116597691362bfbf,head/neck,,female,vascular lesion,45,0.7
+5aaf12cd116597691362c042,lower extremity,benign,male,dermatofibroma,50,0.73
+5aaf12ce116597691362c08f,anterior torso,,male,vascular lesion,80,0.96
+5aaf12d2116597691362c28d,upper extremity,benign,male,dermatofibroma,65,0.85
+5aaf12d2116597691362c301,anterior torso,,female,vascular lesion,50,0.73
+5aaf12d3116597691362c322,,,female,vascular lesion,55,0.77
+5aaf12d5116597691362c478,,,male,vascular lesion,35,0.62
+5aaf12db116597691362c7ab,lower extremity,benign,female,dermatofibroma,35,0.62
+5aaf12dc116597691362c821,head/neck,,male,actinic keratosis,70,0.89
+5aaf12df116597691362c940,head/neck,,male,actinic keratosis,80,0.96
+5aaf12df116597691362c975,upper extremity,,female,vascular lesion,50,0.73
+5aaf12e1116597691362ca56,head/neck,,female,actinic keratosis,80,0.96
+5aaf12e5116597691362ccbb,lower extremity,,female,vascular lesion,50,0.73
+5aaf12e8116597691362ce40,anterior torso,benign,male,dermatofibroma,60,0.81
+5aaf12e9116597691362cea2,lower extremity,benign,female,dermatofibroma,65,0.85
+5aaf12ea116597691362cf49,lower extremity,,female,vascular lesion,30,0.58
+5aaf12ed116597691362d0bd,head/neck,,male,actinic keratosis,65,0.85
+5aaf12ed116597691362d0c8,lower extremity,benign,male,dermatofibroma,40,0.66
+5aaf12ee116597691362d0f0,lower extremity,,female,actinic keratosis,60,0.81
+5aaf12f0116597691362d213,lower extremity,benign,female,dermatofibroma,55,0.77
+5aaf12f1116597691362d2ad,head/neck,,male,actinic keratosis,65,0.85
+5aaf12f6116597691362d512,head/neck,,female,actinic keratosis,70,0.89
+5aaf12f8116597691362d678,anterior torso,,female,vascular lesion,55,0.77
+5aaf12fb116597691362d7a6,upper extremity,,male,vascular lesion,75,0.92
+5aaf1300116597691362da7f,head/neck,,male,actinic keratosis,65,0.85
+5aaf1301116597691362db2f,upper extremity,,female,vascular lesion,50,0.73
+5aaf1302116597691362db98,head/neck,,female,actinic keratosis,60,0.81
+5aaf1304116597691362dcbc,head/neck,,male,actinic keratosis,30,0.58
+5aaf1306116597691362dd9c,head/neck,,male,actinic keratosis,45,0.7
+5aaf130a116597691362dfbb,lower extremity,benign,male,dermatofibroma,45,0.7
+5aaf1310116597691362e2a3,lower extremity,benign,male,dermatofibroma,50,0.73
+5aaf1312116597691362e3d7,,,male,vascular lesion,50,0.73
+5aaf1314116597691362e475,,,female,vascular lesion,60,0.81
+5aaf1318116597691362e6a5,,,male,vascular lesion,80,0.96
+5aaf131a116597691362e7da,lower extremity,benign,male,dermatofibroma,30,0.58
+5aaf131e116597691362e9cf,upper extremity,,male,vascular lesion,60,0.81
+5aaf131f116597691362ea5b,lower extremity,,male,vascular lesion,55,0.77
+5aaf1320116597691362ea66,upper extremity,,male,actinic keratosis,50,0.73
+5aaf1320116597691362ea91,lower extremity,benign,male,dermatofibroma,60,0.81
+5aaf1320116597691362eaab,lower extremity,benign,male,dermatofibroma,65,0.85
+5aaf1322116597691362eb81,,,female,vascular lesion,65,0.85
+5aaf1325116597691362ed3e,head/neck,,male,actinic keratosis,45,0.7
+5aaf132a116597691362efbd,head/neck,,male,actinic keratosis,80,0.96
+5aaf132f116597691362f23d,head/neck,,male,actinic keratosis,60,0.81
+5aaf132f116597691362f249,head/neck,,female,actinic keratosis,65,0.85
+5aaf132f116597691362f26b,lower extremity,benign,female,dermatofibroma,65,0.85
+5aaf1331116597691362f375,head/neck,,male,actinic keratosis,70,0.89
+5aaf1336116597691362f5a1,anterior torso,,male,vascular lesion,75,0.92
+5aaf1336116597691362f609,head/neck,,female,actinic keratosis,80,0.96
+5aaf1337116597691362f66b,head/neck,,female,actinic keratosis,60,0.81
+5aaf1338116597691362f69e,upper extremity,,female,vascular lesion,35,0.62
+5aaf1339116597691362f76a,head/neck,,male,actinic keratosis,50,0.73
+5aaf133d116597691362f932,anterior torso,,female,actinic keratosis,55,0.77
+5aaf133f116597691362fa5f,lower extremity,benign,male,dermatofibroma,65,0.85
+5aaf1345116597691362fd55,head/neck,,male,actinic keratosis,55,0.77
+5aaf1346116597691362fdc3,head/neck,,male,actinic keratosis,55,0.77
+5aaf1348116597691362feb4,anterior torso,,female,vascular lesion,0,0.47
+5aaf134a1165976913630029,upper extremity,,male,actinic keratosis,70,0.89
+5aaf13521165976913630421,head/neck,,male,actinic keratosis,50,0.73
+5aaf1355116597691363054a,posterior torso,benign,male,dermatofibroma,75,0.92
+5aaf13581165976913630717,lower extremity,benign,female,dermatofibroma,35,0.62
+5aaf135e1165976913630a3f,upper extremity,benign,male,dermatofibroma,55,0.77
+5aaf13601165976913630ad3,upper extremity,benign,female,dermatofibroma,50,0.73
+5aaf13621165976913630bf1,lower extremity,benign,female,dermatofibroma,45,0.7
+5aaf13641165976913630cd8,upper extremity,,female,vascular lesion,85,1.0
+5aaf13651165976913630d81,head/neck,,male,actinic keratosis,75,0.92
+5aaf13661165976913630e4d,lower extremity,benign,male,dermatofibroma,40,0.66
+5aaf13681165976913630f60,lower extremity,,female,vascular lesion,30,0.58
+5aaf13691165976913630fae,lower extremity,benign,female,dermatofibroma,60,0.81
+5aaf136d1165976913631199,head/neck,,male,actinic keratosis,75,0.92
+5aaf136d11659769136311b3,posterior torso,,female,vascular lesion,0,0.47
+5aaf136e116597691363125a,,,female,vascular lesion,60,0.81
+5aaf1375116597691363158d,,,male,actinic keratosis,45,0.7
+5aaf137a1165976913631821,,,male,vascular lesion,20,0.51
+5aaf13801165976913631b33,upper extremity,,male,actinic keratosis,65,0.85
+5aaf13811165976913631b77,upper extremity,,male,actinic keratosis,70,0.89
+5aaf13841165976913631d42,lower extremity,benign,male,dermatofibroma,45,0.7
+5aaf13881165976913631ef3,anterior torso,,male,vascular lesion,55,0.77
+5aaf13891165976913631fa0,upper extremity,,male,actinic keratosis,65,0.85
+5aaf138c11659769136320ef,head/neck,,female,actinic keratosis,60,0.81
+5aaf138c11659769136320fc,lower extremity,,male,vascular lesion,70,0.89
+5aaf138d11659769136321d1,upper extremity,,male,actinic keratosis,75,0.92
+5aaf138f11659769136322ba,lower extremity,benign,female,dermatofibroma,60,0.81
+5aaf13901165976913632376,lower extremity,benign,female,dermatofibroma,75,0.92
+5aaf1391116597691363238f,upper extremity,,male,actinic keratosis,70,0.89
+5aaf1392116597691363241e,upper extremity,benign,female,dermatofibroma,45,0.7
+5aaf13941165976913632534,upper extremity,benign,male,dermatofibroma,55,0.77
+5aaf1394116597691363254f,head/neck,,male,actinic keratosis,40,0.66
+5aaf13961165976913632613,anterior torso,,male,vascular lesion,50,0.73
+5aaf13961165976913632635,head/neck,,male,actinic keratosis,60,0.81
+5aaf1396116597691363266f,head/neck,,female,vascular lesion,55,0.77
+5aaf139c116597691363292a,upper extremity,benign,male,dermatofibroma,55,0.77
+5aaf139d1165976913632a0f,lower extremity,benign,female,dermatofibroma,50,0.73
+5aaf13a21165976913632c4f,head/neck,,female,vascular lesion,50,0.73
+5aaf13a31165976913632ce8,head/neck,,male,actinic keratosis,50,0.73
+5aaf13a51165976913632e44,head/neck,,female,actinic keratosis,55,0.77
+5aaf13a81165976913632f9a,,,female,vascular lesion,45,0.7
+5aaf13aa116597691363309c,lower extremity,benign,female,dermatofibroma,65,0.85
+5aaf13ab1165976913633102,head/neck,,male,actinic keratosis,60,0.81
+5aaf13ab1165976913633135,,,male,vascular lesion,40,0.66
+5aaf13ac116597691363319c,upper extremity,,male,actinic keratosis,75,0.92
+5aaf13ad11659769136331f2,lower extremity,,female,vascular lesion,45,0.7
+5aaf13b011659769136333a4,,,male,vascular lesion,70,0.89
+5aaf13b1116597691363344c,head/neck,,female,actinic keratosis,60,0.81
+5aaf13b211659769136334b0,upper extremity,,male,actinic keratosis,75,0.92
+5aaf13b411659769136335f2,anterior torso,,male,vascular lesion,75,0.92
+5aaf13bc11659769136339e9,head/neck,,male,actinic keratosis,50,0.73
+5aaf13bd1165976913633a8f,lower extremity,,male,actinic keratosis,60,0.81
+5aaf13c41165976913633e0a,posterior torso,,female,vascular lesion,60,0.81
+5aaf13c61165976913633ee1,anterior torso,,female,vascular lesion,25,0.55
+5aaf13c81165976913634022,upper extremity,,female,vascular lesion,85,1.0
+5aaf13c8116597691363403f,head/neck,,male,actinic keratosis,45,0.7
+5aaf13d4116597691363466b,lower extremity,,male,actinic keratosis,60,0.81
+5aaf13d71165976913634804,lower extremity,benign,female,dermatofibroma,65,0.85
+5aaf13da116597691363493a,head/neck,,male,actinic keratosis,60,0.81
+5aaf13dc1165976913634a5a,head/neck,,male,actinic keratosis,80,0.96
+5aaf13dd1165976913634b04,anterior torso,,male,vascular lesion,80,0.96
+5aaf13e01165976913634c35,anterior torso,,male,vascular lesion,50,0.73
+5aaf13e81165976913635085,upper extremity,,male,actinic keratosis,60,0.81
+5aaf13ec116597691363528f,head/neck,,male,actinic keratosis,75,0.92
+5aaf13f21165976913635594,head/neck,,female,actinic keratosis,60,0.81
+5aaf13f5116597691363572c,lower extremity,benign,female,dermatofibroma,55,0.77
+5aaf13f8116597691363589f,,,female,vascular lesion,45,0.7
+5aaf13fb1165976913635a51,head/neck,,female,vascular lesion,60,0.81
+5aaf13fd1165976913635b5d,lower extremity,benign,male,dermatofibroma,30,0.58
+5aaf14021165976913635e19,posterior torso,benign,male,dermatofibroma,75,0.92
+5aaf14051165976913635f9b,lower extremity,,male,actinic keratosis,80,0.96
+5aaf1409116597691363614c,head/neck,,male,actinic keratosis,60,0.81
+5aaf140b1165976913636297,lower extremity,benign,male,dermatofibroma,55,0.77
+5aaf140c11659769136362da,posterior torso,,male,vascular lesion,75,0.92
+5aaf141011659769136364e4,upper extremity,benign,male,dermatofibroma,65,0.85
+5aaf141111659769136365a4,head/neck,,female,actinic keratosis,70,0.89
+5aaf14161165976913636811,upper extremity,,male,actinic keratosis,70,0.89
+5aaf141911659769136369ce,head/neck,,male,actinic keratosis,70,0.89
+5aaf141b1165976913636a82,lower extremity,benign,female,dermatofibroma,50,0.73
+5aaf141b1165976913636a9e,head/neck,,male,actinic keratosis,80,0.96
+5aaf141c1165976913636b2e,lower extremity,benign,female,dermatofibroma,75,0.92
+5aaf14211165976913636d87,anterior torso,,female,vascular lesion,70,0.89
+5aaf14241165976913636f08,lower extremity,benign,male,dermatofibroma,70,0.89
+5aaf14241165976913636f3c,head/neck,,female,actinic keratosis,65,0.85
+5aaf14251165976913636f98,head/neck,,female,actinic keratosis,60,0.81
+5aaf14281165976913637161,lower extremity,benign,female,dermatofibroma,35,0.62
+5aaf142c1165976913637308,head/neck,,male,actinic keratosis,40,0.66
+5aaf142f11659769136374f4,lower extremity,benign,male,dermatofibroma,55,0.77
+5aaf1434116597691363775e,lower extremity,benign,female,dermatofibroma,40,0.66
+5aaf143611659769136377fc,head/neck,,male,actinic keratosis,80,0.96
+5aaf143f1165976913637cc1,,,male,vascular lesion,10,0.47
+5aaf14431165976913637e77,anterior torso,,male,vascular lesion,50,0.73
+5aaf14431165976913637ee6,posterior torso,,male,vascular lesion,5,0.47
+5aaf14451165976913637f86,head/neck,,male,actinic keratosis,70,0.89
+5aaf144711659769136380ce,posterior torso,,male,vascular lesion,55,0.77
+5aaf1449116597691363817f,head/neck,,male,actinic keratosis,45,0.7
+5aaf144a1165976913638232,head/neck,,female,vascular lesion,55,0.77
+5aaf14501165976913638568,lower extremity,benign,male,dermatofibroma,60,0.81
+5aaf145311659769136386e3,posterior torso,,male,vascular lesion,70,0.89
+5aaf14581165976913638972,head/neck,,female,actinic keratosis,70,0.89
+5aaf145e1165976913638c25,posterior torso,,male,actinic keratosis,85,1.0
+5aaf14601165976913638d97,posterior torso,,male,vascular lesion,5,0.47
+5aaf14621165976913638e7f,lower extremity,benign,male,dermatofibroma,70,0.89
+5aaf14641165976913638f8a,head/neck,,male,actinic keratosis,75,0.92
+5aaf14651165976913638fa2,lower extremity,benign,male,dermatofibroma,40,0.66
+5aaf146911659769136391ac,lower extremity,benign,male,dermatofibroma,50,0.73
+5aaf146911659769136391d9,posterior torso,,male,actinic keratosis,60,0.81
+5aaf14691165976913639200,head/neck,,male,actinic keratosis,60,0.81
+5aaf146a1165976913639278,head/neck,,male,actinic keratosis,60,0.81
+5aaf146e116597691363945c,lower extremity,,male,vascular lesion,80,0.96
+5aaf146f11659769136394eb,anterior torso,,female,vascular lesion,40,0.66
+5aaf146f116597691363950a,lower extremity,benign,male,dermatofibroma,75,0.92
+5aaf1470116597691363957b,head/neck,,male,actinic keratosis,60,0.81
+5aaf1472116597691363963e,head/neck,,female,actinic keratosis,50,0.73
+5aaf14731165976913639700,head/neck,,female,actinic keratosis,70,0.89
+5aaf1476116597691363989a,lower extremity,benign,male,dermatofibroma,65,0.85
+5aaf147711659769136398d4,lower extremity,benign,female,dermatofibroma,65,0.85
+5aaf14771165976913639920,lower extremity,benign,male,dermatofibroma,60,0.81
+5aaf147b1165976913639b0f,upper extremity,benign,female,dermatofibroma,45,0.7
+5aaf147c1165976913639b3e,upper extremity,benign,male,dermatofibroma,65,0.85
+5aaf147c1165976913639b86,upper extremity,benign,female,dermatofibroma,50,0.73
+5aaf147e1165976913639c46,upper extremity,,male,actinic keratosis,60,0.81
+5aaf14811165976913639dfa,upper extremity,,female,vascular lesion,75,0.92
+5aaf14841165976913639fae,,,female,vascular lesion,65,0.85
+5aaf1487116597691363a122,head/neck,,male,actinic keratosis,65,0.85
+5aaf1488116597691363a19b,lower extremity,,male,actinic keratosis,60,0.81
+5aaf1489116597691363a1aa,head/neck,,female,actinic keratosis,65,0.85
+5aaf1493116597691363a69f,head/neck,,male,actinic keratosis,80,0.96
+5aaf1493116597691363a6b6,lower extremity,benign,male,dermatofibroma,50,0.73
+5aaf1496116597691363a846,,,male,vascular lesion,10,0.47
+5aaf1497116597691363a8a5,,,male,vascular lesion,55,0.77
+5aaf149a116597691363aa8b,upper extremity,benign,male,dermatofibroma,30,0.58
+5aaf149d116597691363abb7,head/neck,,female,actinic keratosis,55,0.77
+5aaf14a3116597691363aeed,head/neck,,male,actinic keratosis,80,0.96
+5aaf14a5116597691363afdf,upper extremity,benign,female,dermatofibroma,45,0.7
+5aaf14a7116597691363b0a0,lower extremity,benign,male,dermatofibroma,55,0.77
+5aaf14a9116597691363b1a8,head/neck,,female,actinic keratosis,70,0.89
+5aaf14ac116597691363b314,head/neck,,male,actinic keratosis,80,0.96
+5aaf14b2116597691363b63d,lower extremity,benign,male,dermatofibroma,70,0.89
+5aaf14b5116597691363b776,upper extremity,benign,female,dermatofibroma,55,0.77
+5aaf14b5116597691363b7c7,head/neck,,male,actinic keratosis,80,0.96
+5aaf14b7116597691363b8ce,anterior torso,,female,vascular lesion,0,0.47
+5aaf14bc116597691363bb3c,head/neck,,female,actinic keratosis,60,0.81
+5aaf14bd116597691363bbbe,lower extremity,benign,female,dermatofibroma,55,0.77
+5aaf14c3116597691363be8f,anterior torso,,female,vascular lesion,45,0.7
+5aaf14c4116597691363bef9,head/neck,,female,actinic keratosis,60,0.81
+5aaf14c6116597691363c053,upper extremity,benign,male,dermatofibroma,80,0.96
+5aaf14c8116597691363c0fc,anterior torso,,female,vascular lesion,65,0.85
+5aaf14cd116597691363c3b8,head/neck,,male,actinic keratosis,40,0.66
+5aaf14cd116597691363c3c5,head/neck,,male,actinic keratosis,70,0.89
+5aaf14cd116597691363c3f3,,benign,female,dermatofibroma,50,0.73
+5aaf14d1116597691363c5f5,lower extremity,benign,female,dermatofibroma,45,0.7
+5aaf14d2116597691363c651,head/neck,,female,actinic keratosis,60,0.81
+5aaf14d3116597691363c68c,,,male,vascular lesion,20,0.51
+5aaf14da116597691363ca47,head/neck,,female,vascular lesion,60,0.81
+5aaf14df116597691363cc87,upper extremity,benign,male,dermatofibroma,65,0.85
+5aaf14e3116597691363ce75,head/neck,,male,actinic keratosis,80,0.96
+5aaf14e5116597691363cfaf,,,female,vascular lesion,35,0.62
+5aaf14e8116597691363d0f4,upper extremity,,female,vascular lesion,55,0.77
+5aaf14e8116597691363d11c,posterior torso,,male,vascular lesion,70,0.89
+5aaf14e9116597691363d193,,,female,vascular lesion,35,0.62
+5aaf14e9116597691363d1dc,head/neck,,male,actinic keratosis,60,0.81
+5aaf14eb116597691363d297,lower extremity,benign,male,dermatofibroma,40,0.66
+5aaf14f2116597691363d64b,upper extremity,,male,vascular lesion,20,0.51
+5aaf14f3116597691363d677,,,male,vascular lesion,45,0.7
+5aaf14f4116597691363d72f,,,male,vascular lesion,75,0.92
+5aaf14f4116597691363d747,head/neck,,male,vascular lesion,15,0.47
+5aaf14f6116597691363d7d9,head/neck,,male,actinic keratosis,65,0.85
+5aaf14f8116597691363d94d,upper extremity,benign,female,dermatofibroma,55,0.77
+5aaf14fa116597691363d9eb,upper extremity,,male,vascular lesion,20,0.51
+5aaf14fa116597691363d9f8,lower extremity,benign,female,dermatofibroma,45,0.7
+5aaf14fa116597691363da3f,anterior torso,,male,vascular lesion,75,0.92
+5aaf14fc116597691363db0d,upper extremity,,male,actinic keratosis,60,0.81
+5aaf14fe116597691363dbdf,lower extremity,benign,male,dermatofibroma,55,0.77
+5aaf1500116597691363dd29,head/neck,,male,actinic keratosis,60,0.81
+5aaf1501116597691363dd98,lower extremity,benign,female,dermatofibroma,65,0.85
+5aaf1501116597691363ddb6,head/neck,,female,vascular lesion,70,0.89
+5aaf1502116597691363de4e,upper extremity,benign,male,dermatofibroma,80,0.96
+5aaf1504116597691363df00,lower extremity,benign,male,dermatofibroma,50,0.73
+5aaf1505116597691363df76,head/neck,,male,actinic keratosis,80,0.96
+5aaf1509116597691363e1d9,lower extremity,benign,male,dermatofibroma,75,0.92
+5aaf1509116597691363e1e7,lower extremity,,female,actinic keratosis,75,0.92
+5aaf150b116597691363e289,upper extremity,benign,male,dermatofibroma,60,0.81
+5aaf150c116597691363e341,lower extremity,benign,male,dermatofibroma,65,0.85
+5aaf1511116597691363e5b2,upper extremity,,male,actinic keratosis,70,0.89
+5aaf151b116597691363eace,head/neck,,male,actinic keratosis,55,0.77
+5aaf151f116597691363ecc2,posterior torso,,female,vascular lesion,25,0.55
+5aaf1524116597691363efaa,,,male,vascular lesion,60,0.81
+5aaf1525116597691363f04c,upper extremity,,female,vascular lesion,75,0.92
+5aaf1527116597691363f116,upper extremity,benign,male,dermatofibroma,80,0.96
+5aaf1529116597691363f24d,posterior torso,,male,vascular lesion,80,0.96
+5aaf152d116597691363f447,lower extremity,benign,male,dermatofibroma,70,0.89
+5aaf152f116597691363f57d,head/neck,,male,actinic keratosis,75,0.92
+5aaf1530116597691363f5b2,lower extremity,benign,male,dermatofibroma,50,0.73
+5aaf1537116597691363f95d,posterior torso,,male,vascular lesion,55,0.77
+5aaf1539116597691363fa6d,head/neck,,female,actinic keratosis,60,0.81
+5aaf153c116597691363fbce,lower extremity,,male,vascular lesion,40,0.66
+5aaf153c116597691363fc14,lower extremity,,female,vascular lesion,30,0.58
+5aaf1540116597691363fdfd,head/neck,,male,actinic keratosis,45,0.7
+5aaf1541116597691363fe22,lower extremity,,female,vascular lesion,70,0.89
+5aaf1546116597691364012d,anterior torso,,female,vascular lesion,55,0.77
+5aaf15481165976913640224,lower extremity,,male,vascular lesion,85,1.0
+5aaf154c1165976913640406,lower extremity,benign,male,dermatofibroma,65,0.85
+5aaf154e1165976913640510,head/neck,,female,actinic keratosis,65,0.85
+5aaf154f116597691364053b,lower extremity,benign,female,dermatofibroma,35,0.62
+5aaf15551165976913640843,head/neck,,female,actinic keratosis,60,0.81
+5aaf155611659769136408a5,head/neck,,male,actinic keratosis,50,0.73
+5aaf15591165976913640a59,anterior torso,,female,vascular lesion,65,0.85
+5aaf155a1165976913640aad,lower extremity,benign,male,dermatofibroma,75,0.92
+5aaf155c1165976913640bd6,lower extremity,,female,vascular lesion,70,0.89
+5aaf156a116597691364128d,head/neck,,male,actinic keratosis,70,0.89
+5aaf156a11659769136412cf,anterior torso,,male,vascular lesion,80,0.96
+5aaf156a11659769136412da,lower extremity,benign,male,dermatofibroma,30,0.58
+5aaf156c1165976913641378,head/neck,,male,actinic keratosis,70,0.89
+5aaf157011659769136415bd,lower extremity,benign,female,dermatofibroma,75,0.92
+5aaf15771165976913641941,lower extremity,,female,vascular lesion,80,0.96
+5aaf15781165976913641997,anterior torso,,female,vascular lesion,45,0.7
+5aaf15791165976913641a36,lower extremity,,male,vascular lesion,55,0.77
+5aaf157f1165976913641cfe,lower extremity,benign,female,dermatofibroma,25,0.55
+5aaf157f1165976913641d0a,posterior torso,,female,vascular lesion,55,0.77
+5aaf15821165976913641e76,lower extremity,benign,male,dermatofibroma,50,0.73
+5aaf158711659769136420f6,lower extremity,,female,vascular lesion,35,0.62
+5aaf1589116597691364221c,anterior torso,,female,vascular lesion,45,0.7
+5aaf158c1165976913642397,lower extremity,,male,vascular lesion,55,0.77
+5aaf158f1165976913642515,upper extremity,,male,vascular lesion,45,0.7
+5aaf15951165976913642845,posterior torso,,male,vascular lesion,70,0.89
+5aaf1598116597691364299d,posterior torso,,female,vascular lesion,55,0.77
+5aaf159811659769136429ac,anterior torso,,female,vascular lesion,45,0.7
+5aaf159a1165976913642ad1,lower extremity,,female,vascular lesion,70,0.89
+5aaf159d1165976913642c43,posterior torso,,female,vascular lesion,55,0.77
+5aaf159e1165976913642ce0,posterior torso,,male,vascular lesion,70,0.89
+5aaf159f1165976913642d5a,upper extremity,benign,male,dermatofibroma,50,0.73
+5aaf15a6116597691364308e,lower extremity,benign,female,dermatofibroma,45,0.7
+5aaf15a811659769136431d6,upper extremity,,male,vascular lesion,45,0.7
+5aaf15be1165976913643d10,lower extremity,benign,female,dermatofibroma,25,0.55
+5aaf15ce1165976913644554,lower extremity,benign,male,dermatofibroma,45,0.7
+5aaf15db1165976913644bea,lower extremity,benign,female,dermatofibroma,35,0.62
+5aaf15e21165976913644f83,lower extremity,benign,female,dermatofibroma,35,0.62
+5aaf15e711659769136451f6,lower extremity,benign,male,dermatofibroma,50,0.73
+5aaf15e911659769136452f6,lower extremity,benign,female,dermatofibroma,45,0.7
+5aaf15f1116597691364572c,lower extremity,benign,female,dermatofibroma,35,0.62
+5aaf15f211659769136457ac,lower extremity,benign,male,dermatofibroma,50,0.73
+5aaf15f41165976913645895,anterior torso,benign,male,dermatofibroma,45,0.7
+5aaf15f411659769136458ae,lower extremity,benign,female,dermatofibroma,35,0.62
+5aaf15f81165976913645a85,anterior torso,benign,male,dermatofibroma,45,0.7
+5aaf15f91165976913645b2e,anterior torso,benign,male,dermatofibroma,45,0.7
+5aaf15fc1165976913645cbb,lower extremity,benign,female,dermatofibroma,35,0.62
+5aaf161411659769136468df,lower extremity,benign,female,dermatofibroma,35,0.62
+5aaf16181165976913646a93,upper extremity,benign,male,dermatofibroma,50,0.73
