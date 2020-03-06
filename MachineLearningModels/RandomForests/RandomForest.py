@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 from sklearn.metrics import confusion_matrix
 import pandas as pd
 
-dataset = pd.read_csv('normalized_data.csv')
+dataset = pd.read_csv('C:/Users/ava/Desktop/KSU/Year 4/Spring 2020/Senior Project/normalized_data2.csv')
 
 # number of random to choose from
 RSEED = 50
@@ -15,9 +15,11 @@ model = RandomForestClassifier(n_estimators=100,
                                bootstrap=True,
                                max_features='sqrt')
 
-labels = np.array(dataset.pop('label'))
+labels = np.array(dataset.pop('diagnosis'))
 
-train, test, train_labels, test_labels = train_test_split(df,
+imageIds = np.array(dataset.pop('image_id'))
+
+train, test, train_labels, test_labels = train_test_split(dataset,
                                                           labels,
                                                           stratify=labels,
                                                           test_size=0.3,
