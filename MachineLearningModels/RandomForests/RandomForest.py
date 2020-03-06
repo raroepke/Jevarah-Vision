@@ -7,7 +7,9 @@ from sklearn.metrics import confusion_matrix
 import pandas as pd
 
 dataset = pd.read_csv('C:/Users/ava/Desktop/KSU/Year 4/Spring 2020/Senior Project/normalized_data2.csv')
-
+print(dataset.shape)
+dataset = dataset.dropna()
+print(dataset.shape)
 # number of random to choose from
 RSEED = 50
 
