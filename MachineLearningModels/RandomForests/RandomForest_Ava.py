@@ -48,10 +48,32 @@ train_predictions = tree.predict(train)
 predictions = tree.predict(test)
 
 # Calculate the absolute errors
+# positive = not nevus
+# negative = nevus
+
+# fp: guessed not nevus, but is nevus
+# fn: guessed nevus, but is not nevus
+# tp: is not nevus
+# tn: nevus
+
 errors = 0
+fp = 0 
+fn = 0
+tp = 0
+tn = 0
 for i in range(len(predictions)):
+    # Error
     if predictions[i] != test_labels[i]:
         errors = errors + 1
+        if predictions[i] == 'nevus':
+            fn = fn + 1
+        else:
+            fp = fp + 1
+    # All
+    if test_labels[i] == 'nevus':
+        tn = tn + 1
+    else:
+        tp = tp + 1
 
 
 # errors = abs(predictions - test_labels)
@@ -63,3 +85,5 @@ mape = 100 * (errors / len(test_labels))
 # # Calculate and display accuracy
 accuracy = 100 - np.mean(mape)
 print('Accuracy:', round(accuracy, 2), '%.')
+
+print('False Negative Rate:', round(fn / (fn + tp), 2), '%.')
